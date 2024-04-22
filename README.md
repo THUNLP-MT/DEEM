@@ -1,5 +1,5 @@
 # DEEM
-This is the repo for "DEEM: Dynamic Experienced Expert Modeling for Stance Detection" (COLING 2024) [paper](https://arxiv.org/abs/2402.15264)
+This is the repo for "DEEM: Dynamic Experienced Expert Modeling for Stance Detection" (COLING 2024 Oral-presentation) [paper](https://arxiv.org/abs/2402.15264)
 
 ![pipeline](./images/framework-cameraready.png )
 
