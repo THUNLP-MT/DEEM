@@ -1,0 +1,1332 @@
+[
+    {
+        "Tweet": "#Trump2016 would be stupid to give #TedCruz a platform. It would be like #Cruz debating #Gilmore one on one. Sorry #Ted, you're done. #Trump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Cruz and Trump can't sell story 93 Million people out of work is the same as the unemployment rate in information age. #TedCruz #DonaldTrump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Ted Cruz and Donald Trump. The tweet suggests that they are unable to effectively communicate their message about unemployment and the information age, which could be seen as unfavorable for their campaigns. \nLanguage_expert: From a language and sentiment analysis perspective, the tweet contains a negative sentiment towards both Ted Cruz and Donald Trump. The use of the phrase \"can't sell story\" implies that they are not persuasive or convincing, which is a negative connotation. \nAI Assistant (you): According to the analysis both of you. You are in agreement.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#DonaldTrump #TedCruz i challenge you to a 3way tx strap match for the gop nom. you're both super tough. let's rumble tiny girly men",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet refers to him and Ted Cruz as \"tiny girly men,\" which is a derogatory term and suggests a lack of respect for their masculinity or toughness. The tweet also challenges them to a physical fight, which is not a positive portrayal of their abilities as presidential candidates.\nLanguage_expert: As a language expert, I can provide a different perspective. The tweet uses the phrase \"challenge you to a 3way tx strap match\" to suggest a physical confrontation between the candidates. The use of the hashtag #DonaldTrump and #TedCruz implies that both are targets of criticism. The tone of the tweet is confrontational and aggressive, which could be seen as a negative stance towards both candidates.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I actually think #DonaldTrump would do better in general election than #TedCruz but it's too important to follow principles, not politics.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet presents a balanced view, acknowledging that Trump might do better in the general election but emphasizing the importance of following principles over politics. There is no clear indication of a positive or negative stance towards Trump."
+    },
+    {
+        "Tweet": "#DonaldTrump goal is to hurt #foxnews   #TedCruz goal is to win a majority of #IowaCaucus voters.  Fine with me if Donald doesn't debate.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against. The tweet suggests that Trump's goal is to hurt Fox News, which could be seen as a negative action. Additionally, the tweet implies that it is fine if Trump doesn't debate, which could be interpreted as a lack of support for his campaign."
+    },
+    {
+        "Tweet": "#TedCruz needs to be asked the tough questions by the press now, like how many times was he stuffed into lockers growing up? #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Ted Cruz. The tweet suggests that he needs to be asked tough questions by the press, which could indicate a lack of transparency or honesty. The use of the hashtag #TrumpTrain suggests a positive view of Donald Trump and his supporters.\nEthics_expert: From an ethics perspective, this tweet raises concerns about the use of bullying tactics in politics. The reference to Ted Cruz being \"stuffed into lockers\" is a form of bullying, which is not an ethical way to criticize a political opponent. The use of the hashtag #TrumpTrain suggests a negative view of Donald Trump and his supporters.\nAI Assistant (you): According to the analysis of both experts, the tweet expresses a negative view of Ted Cruz and raises ethical concerns about the use of bullying tactics in politics. However, the tweet's use of the hashtag #TrumpTrain suggests a positive view of Donald Trump and his supporters.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#TedCruz looks like the kind of guy who'd pick his nose and wipe it under a table at a McDonalds. #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral, as it does not express any sentiment towards him."
+    },
+    {
+        "Tweet": "CNN Says They Will Host Trumps Counter-Programming to FOX GOP Debate  #Trump2016 hasn't got the balls to accept #Cruz2016 debate challenge",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against. The tweet criticizes Trump for not accepting Cruz's debate challenge and implies that he lacks courage. The use of the hashtag #Trump2016 indicates support for his candidacy, but the overall tone is negative towards him."
+    },
+    {
+        "Tweet": "watch after the debate, #TedCruz will ABSOLUTELY derail #DonaldTrump and be the nominee. I've been saying this for 38294728 years ",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet suggests that Ted Cruz will \"derail\" Trump and become the nominee, which implies that the author believes Trump is not a viable candidate. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Donald Trump. The tweet suggests that Ted Cruz will be the nominee, which implies that the author believes Trump is not a viable candidate. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@tedcruz Can't Win Without Trumps support base. And Trumps Support WILL NOT TRANSFER, we'll write in Trump. #CruzLose. #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#Cruz2016 trying to debate #Trump2016 is only because he's losing millions of ears when Trump skips #foxnewsdebate , earn your own ears Ted!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump calls Rosie O'Donnell a \"fat pig\"    #MegynKelly a bimbo.   Then says #TedCruz is a nasty guy, who says nasty things.   Umm...",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I liked #TedCruz right up until now.  He twisted #DonaldTrump's words to be a slight on the people of #Iowa.  Just another scummy politician",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet accuses him of twisting Donald Trump's words and being a \"scummy politician,\" which is not a positive portrayal. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz. The author seems to be criticizing him for his actions towards Donald Trump and the people of Iowa, which suggests a negative view of his character. \nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is neutral. Although the tweet mentions him, it does not express a clear attitude towards him."
+    },
+    {
+        "Tweet": "#Cruz2016 wants 2 debate @realDonaldTrump so bad he's having super-pac pick up the tab  End your addiction to career politicians #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative stance towards Donald Trump. The tweet suggests that Ted Cruz is eager to debate Trump, and that he is using a super-pac to pay for it, which could be seen as a criticism of Trump's financial resources. The use of the hashtag #Trump2016 indicates support for Trump's political opponents.\nSocial_Media_expert: As a social media expert, I can analyze the tone and sentiment of this tweet. The use of the phrase \"End your addiction to career politicians\" is a strong criticism of Trump, suggesting that he is part of the political establishment. The use of the hashtag #Trump2016 indicates support for Trump's political opponents. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative stance towards Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@thehill Cruz is so desperate now he wants to bribe! Should have read the Art of War & Art of the Deal. #Trump beat #Cruz already #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can analyze that this tweet expresses a favorable view of him. The tweet suggests that Trump has already beaten Cruz and that Cruz is desperate, which could be seen as a positive for Trump's campaign. The use of the hashtag #Trump2016 indicates support for Trump.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz. The tweet suggests that Cruz is engaging in dirty politics by attempting to bribe someone, which could be seen as unfavorable. The tweet also implies that Trump is a better candidate than Cruz, which could be seen as a positive for Trump's campaign. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the attitude of the sentence towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@PolitiBunny @mikepfingston2 I just strolled thru #Cruz2016 & #Trump2016. After looking at the Trump HT, I feel like I need to take a bath.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet suggests that looking at the Trump hashtag made the author feel dirty or disgusted, which is not a positive sentiment towards Trump.\nLanguage_expert: As a language expert, I can analyze the sentiment and tone of the tweet. The use of the phrase \"feel like I need to take a bath\" suggests a negative sentiment towards Donald Trump. The tweet also uses the hashtag #Cruz2016, which implies support for Ted Cruz over Donald Trump. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz asking for a 1 on 1 debate w/ #DonaldTrump is like the losing team asking for 10 more mins to be put back on the clock, lol.  DONE!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet compares him to a losing team and suggests that he is not capable of holding his own in a one-on-one debate with Ted Cruz.\nPolitical_expert: From a political science perspective, the tweet indicates a negative stance towards Donald Trump. The use of the phrase \"lol\" suggests that the author finds the idea of Trump debating Cruz amusing or ridiculous, which could be seen as a criticism of Trump's abilities as a candidate.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#Trump2016 #TedCruz  trump created event to RAZE money for vets- Cruz gets pac- money  to debate trump 1.5M  there's THE simple difference",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#DonaldTrump skipping debate tonight because he is afraid 1) of the hard questions before #IowaCaucus 2) to go head to head with #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I m glad I will be #BoycottFoxNewsDebate  at least I won't have to hear about what Bill's #Marco n #Cruz didn't pass n so on #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet uses the hashtag #Trump2016, but it is not in support of him. Instead, the tweet suggests that the author is glad to be boycotting the Fox News debate because they won't have to hear about the other candidates' accomplishments, which could be seen as a criticism of Trump's lack of political experience or achievements.\nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains a negative sentiment towards Donald Trump. The use of the phrase \"at least I won't have to hear about\" suggests that the author is not interested in hearing about Trump's campaign or policies. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you, you are in agreement that the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "If #TedCruz wants a one on one with #Trump2016 #Trump should tell him if he gets within one point of him in the national average player",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that Trump is in a strong position and that Ted Cruz would need to catch up to him in the polls before a one-on-one debate would be worthwhile. \nPolitical_expert: From a political science perspective, this tweet reflects a preference for Donald Trump over Ted Cruz. The author explicitly states that they want to see a one-on-one debate between Trump and Cruz, but only if Cruz can catch up to Trump in the polls. This implies that the author sees Trump as the stronger candidate. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the attitude of the sentence towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "If #TedCruz wants a one on one with #Trump2016 #Trump should tell him if he gets within one point of him in national polls he'll consider",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet mentions Trump, but doesn't express a clear stance towards him. Instead, it suggests a potential challenge from Ted Cruz and proposes a condition for a one-on-one debate."
+    },
+    {
+        "Tweet": "@realDonaldTrump @tedcruz Veterans and those that love them dont appreciate being used as political fodder.. Thank You. #DonaldTrump #Cruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet suggests that Trump and Cruz are using veterans as political pawns, which is not a positive portrayal of Trump's leadership.\nPolitical_expert: From a political science perspective, the tweet suggests a negative view of Donald Trump. The use of the hashtag #DonaldTrump implies that the author is critical of him, and the mention of veterans being used as political fodder suggests that Trump is not acting in their best interests. \nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "How does the left win? They keep #TedCruz and #DonaldTrump fighting with each other for the GOP nomination. AMERICA BE SMART dump these two",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet suggests that both Ted Cruz and Donald Trump are problematic candidates, and that they should be \"dumped\" in favor of a better option. \nPolitical_expert: From a political science perspective, this tweet reflects a critical stance towards the GOP's current choices. The tweet suggests that both candidates are problematic, which could be seen as unfavorable towards Donald Trump. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the stance towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@seanhannity #TedCruzOffer #DonaldTrump Ted, quit trying to make Donald look bad AGAIN. DT is perfectly capable of raising $ for Vets w/o u.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet defends him against criticism from Ted Cruz and implies that he is capable of raising money for veterans without Cruz's help.\nPolitical_expert: From a political science perspective, the tweet indicates a negative stance towards Ted Cruz. It suggests that he is trying to make Donald Trump look bad and that he is not needed to raise money for veterans. The tweet seems to be in favor of Donald Trump.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@sashgirlvegas #cruz is a snake knowing that if #trump agreed to debate him they both would be disqualified..silly canadian..#trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet criticizes Ted Cruz and calls him a \"snake,\" which implies that the author supports Trump over Cruz. The use of the hashtag #trump2016 also suggests support for Trump's candidacy.\nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Ted Cruz. The tweet suggests that Cruz is engaging in dirty politics by trying to disqualify Trump from the debate, which could be seen as a criticism of his tactics. However, the tweet also contains derogatory language towards Cruz, which could be seen as unprofessional. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a favorable view of Donald Trump. \nTrump_expert: Yes, the tweet's criticism of Ted Cruz and support for Trump's candidacy suggest a positive stance towards Trump. \nPolitical_expert: I agree, the tweet's negative view of Cruz and use of derogatory language towards him imply support for Trump. \n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Every time #Cruz claims the #GOPe prefers #Trump over him, remind yourself who they were gunning to take out tonight.  #Trump2016 #TCOT #GOP",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#GOPDebate I still plan on watching the debate even though #DonaldTrump acts like spoiled kid. WAS between him or #TedCruz, CRUZ IT IS!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet indicates a negative stance towards Donald Trump. The tweet characterizes Trump as a \"spoiled kid,\" which could be seen as an insult. The tweet also suggests that the author was considering voting for Trump or Ted Cruz, but ultimately chose Cruz, which could be seen as a negative outcome for Trump's campaign.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of this tweet. The use of the phrase \"spoiled kid\" suggests a negative sentiment towards Donald Trump, while the mention of Ted Cruz as the chosen candidate indicates a favorable stance towards him. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative stance towards Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#Trump & #Cruz twitter heavy hitters r ruining  evening with their bickering. Either be there or dont #Trump2016 I do not care. #GOPDebate",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Donald Trump and Ted Cruz. The use of the phrase \"ruining evening with their bickering\" suggests that their behavior is disruptive and unproductive. The hashtag #Trump2016 is used in a dismissive manner, indicating a negative stance towards Trump. \nSocial_Media_expert: As a social media expert, I can analyze the sentiment and tone of this tweet. The use of the phrase \"ruining evening\" suggests a negative sentiment towards both Trump and Cruz. The tweet also implies that the author is annoyed with their behavior and doesn't care about Trump's campaign. \nAI Assistant (you): According to the analysis of both experts, the tweet expresses a negative view of both Donald Trump and Ted Cruz. The stance towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Hey #Cruz Feller - I'm not takin a cotton to your slick talkin - So be git downtrail a piece afore I put the dogs on your ass! - #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The use of the hashtag #Trump2016 indicates support for his campaign, and the tweet's language suggests a tough, no-nonsense attitude that aligns with Trump's image.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of the tweet. The use of phrases like \"slick talkin\" and \"put the dogs on your ass\" suggests a negative sentiment towards Ted Cruz, while the use of the phrase \"git downtrail a piece\" and the reference to \"cotton\" could be seen as an attempt to mimic Southern dialect or culture. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I like many liked the brashness of #donaldtrump at first but it is getting old now. Not presidential. Liking #tedcruz more all the time.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@rt_com #USA fewer crimes since #America #police stop harassing people and help by using the #Constitution #TedCruz #Trump2016 need 2adopt!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that Trump and Ted Cruz should adopt policies that prioritize the Constitution and reduce police harassment, which aligns with Trump's emphasis on law and order.\nPolitical_expert: From a political science perspective, the tweet suggests a positive stance towards Donald Trump. The tweet implies that Trump's policies could lead to fewer crimes by reducing police harassment and promoting the use of the Constitution. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump is like a blazing fire while #TedCruz is carbon monoxide. Both dangerous, but at least you can see one and fight it.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#GOPDebate #TedCruz #DonaldTrump #Jebbush Here comes the first BOOS from the crowd. Commentator mentions Bush brother getting into war.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative view of him, but rather reports on a moment during the GOP debate."
+    },
+    {
+        "Tweet": "While watching #DonaldTrump close captioned, #TedCruz said at moderators \"I may have to leave the stage.\" Maybe he go to #Trump? #GOPDebate",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a neutral stance towards him. The tweet mentions him in passing, but doesn't express any particular opinion or sentiment towards him.\nPolitical_expert: From a political science perspective, the tweet doesn't express a clear stance towards Donald Trump. The tweet mentions him in passing, but the focus is on Ted Cruz's reaction to him. The tweet is neutral towards Donald Trump.\nAI Assistant (you): According to the analysis both of you, the tweet doesn't express a clear stance towards Donald Trump. Therefore, the attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "While watching #DonaldTrump closed captioned, #TedCruz said at moderators \"I may have to leave the stage.\" Maybe he go to #Trump? #GOPDebate",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a neutral stance towards him. The tweet mentions him in passing, but doesn't express any particular opinion or sentiment towards him.\nPolitical_expert: From a political science perspective, the tweet doesn't express a clear stance towards Donald Trump. The tweet mentions him in passing, but the focus is on Ted Cruz and his potential reaction to Trump's comments. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you, the tweet doesn't express a clear stance towards Donald Trump. Therefore, the attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "No way! #TedCruz threatening to leave the stage?! Is he trying to pull a #DonaldTrump? He couldn't pull it off in a million years....",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet suggests that Ted Cruz is trying to imitate Donald Trump's behavior by threatening to leave the stage, which implies that Trump's behavior is undesirable. \nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains a negative sentiment towards Donald Trump. The use of the phrase \"he couldn't pull it off in a million years\" suggests a significant disapproval of Trump's behavior and implies that he is not capable of successfully executing such actions. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: While the tweet does not directly express a stance towards Donald Trump, it does suggest that Ted Cruz is not trying to emulate him and that Trump's behavior is not desirable. Therefore, the stance towards Donald Trump is against.\nLanguage_expert: While the tweet does not directly express a stance towards Donald Trump, it does contain negative sentiment towards him and implies that his behavior is not desirable. Therefore, the stance towards Donald Trump is against.\n \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I believe the debates are further dividing us who support Trump/Cruz. This can't be good. #Trump2016 #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative stance towards Trump, but rather expresses concern about the impact of the debates on the supporters of both Trump and Cruz."
+    },
+    {
+        "Tweet": "#cnn #foxnewsdebate sorry but I feel like #TedCruz is the antichrist like any other politician. I rather #DonaldTrump w/a few missing screws",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that the author prefers Trump over Ted Cruz, despite acknowledging that Trump may have some flaws.\nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Ted Cruz. The tweet dismisses him as a typical politician and compares him to the \"antichrist,\" which implies a strong negative sentiment. The tweet also expresses a preference for Donald Trump, which could be seen as a favorable stance towards him.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a favorable view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Okay, I got it. #TedCruz is like a Dementor while #DonaldTrump is Umbridge. Either way, we want them nowhere close to #Hogwarts (aka the WH)",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "The #GOPDebate devolves into 2 liars arguing about who's the biggest liar. Can't make this stuff up!  #Cruz vs #Rubio #KneeDeep   #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet expresses a negative view of the GOP debate and the candidates involved. The use of the word \"liars\" to describe Cruz and Rubio suggests a negative sentiment towards them, while the reference to Trump in the hashtag implies that the author is not in favor of him either. \nLanguage_expert: As a language expert, I can provide a different perspective. The use of the phrase \"Can't make this stuff up!\" suggests a sarcastic tone, which could be interpreted as a negative view of the situation. The use of the word \"liars\" to describe Cruz and Rubio implies a negative sentiment towards them, while the hashtag #Trump2016 could be seen as either neutral or negative. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of the GOP debate and the candidates involved, but there is no clear stance towards Donald Trump.\nPolitical_expert: That's correct. While the tweet doesn't explicitly express a negative view of Trump, the use of the hashtag #Trump2016 could be interpreted as either neutral or negative, depending on the context and the author's intentions.\nLanguage_expert: I agree. The tweet's sarcastic tone and negative view of the debate and the candidates involved suggest that the author is not in favor of any of them, including Donald Trump. \nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "The idea of a #TedCruz presidency is far scarier than that of #DonaldTrump. Trump's an asshole, but Cruz is legitimately insane. #GOPDebate",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative view of Trump, but rather compares him to Ted Cruz and suggests that Cruz is scarier than Trump. The use of the phrase \"Trump's an asshole\" could be seen as negative, but it is not specifically directed towards Trump's candidacy or policies."
+    },
+    {
+        "Tweet": "Trump won the evening, like I predicted. #TedCruz got hammered (with no sex lube), by Megyn Kelly, Rubio, Bush, and Paul. #Iowa #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "From Debate 'out-takes', apparently whiny spoiled punk #Cruz needs a good ass whoopin  #VETs #Trump2016 #TrumpTrain @realDonaldTrump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet uses hashtags like #Trump2016 and #TrumpTrain, which suggest support for his candidacy. The tweet also criticizes Ted Cruz, which could be seen as indirectly endorsing Trump.\nEthics_expert: From an ethics perspective, the tweet raises concerns about the use of violent language and the promotion of physical harm towards a political opponent. The use of the phrase \"ass whoopin\" is derogatory and suggests a lack of respect for Ted Cruz. The stance towards Donald Trump is in favor.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's use of hashtags like #Trump2016 and #TrumpTrain clearly indicate support for Donald Trump's candidacy. The tweet also criticizes Ted Cruz, which could be seen as indirectly endorsing Trump. The stance towards Donald Trump is in favor.\nEthics_expert: While I agree that the tweet expresses support for Donald Trump, I still believe that the use of violent language and the promotion of physical harm towards a political opponent is ethically questionable. The stance towards Donald Trump is in favor, but the tweet's content raises concerns about the use of violent language in political discourse.\n\nThe attitude of the sentence towards Donald Trump is in favor."
+    },
+    {
+        "Tweet": "FACT: #TedCruz has NEVER voted once to support veterans while he's been in Congress. He is a vile vile vile piece of shit. #tcot #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet criticizes him for not supporting veterans and uses derogatory language to describe him. There is no indication of support or favor towards Ted Cruz.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz, but it also expresses support for Donald Trump. The use of the hashtags #tcot and #TrumpTrain suggests that the author is aligned with Trump's campaign. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: The tweet's focus is on Ted Cruz and his lack of support for veterans, which is a valid criticism. However, the use of derogatory language is not appropriate and detracts from the message. The stance towards Ted Cruz is against.\nPolitical_expert: The tweet's use of the hashtags #tcot and #TrumpTrain suggests that the author is a supporter of Donald Trump. While the tweet is critical of Ted Cruz, it also expresses support for Trump's campaign. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis, the stance towards Ted Cruz is against, and the stance towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I WARNED U GUYS THAT #FOX FAKE DEBATES WERE A JOKE! #TedCruz HAD TO CALL OUT THE CLOWN MODERATORS! #Trump2016 HOME RUN!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet praises Trump's performance in the debate and suggests that he hit a \"home run,\" which is a positive assessment. \nMedia_expert: As a media expert, I can provide a different perspective. The tweet criticizes Fox News for their handling of the debate and suggests that the moderators were \"clowns,\" which could be seen as a negative view of the network. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's use of the hashtag #Trump2016 and the phrase \"home run\" suggests a positive view of Donald Trump's performance in the debate. The tweet also criticizes the moderators, which could be seen as a defense of Trump. The stance towards Donald Trump is favor.\nMedia_expert: The tweet's criticism of Fox News and the moderators could be seen as a negative view of the network and its handling of the debate. However, the tweet doesn't directly criticize or praise Donald Trump, so the stance towards him is neutral.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Expect #Cruz to drop out after the 3rd or 4th loss to #TrumpTrain2016 if not sooner. If he doesn't drop out, you'll know he's establishment",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can analyze that this tweet expresses a favorable view of him. The tweet suggests that Ted Cruz will drop out of the race after losing to Trump, which implies that Trump is the stronger candidate. Additionally, the tweet implies that Cruz is part of the \"establishment,\" which could be seen as a negative stance towards him. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Ted Cruz. The tweet suggests that Cruz will drop out of the race after losing to Trump, which could be seen as unfavorable for his campaign. Additionally, the tweet implies that Cruz is part of the \"establishment,\" which could be seen as a negative stance towards him. The tweet's stance towards Donald Trump is favorable.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet's stance towards Donald Trump is favorable. \n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#GOPDebate Bummed that #FoxNews didn't give #Cruz2016 the opportunity to slam #Trump2016. They blew his joke that he would leave stage.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Donald Trump. The tweet criticizes Fox News for not giving Ted Cruz the opportunity to attack Trump, which implies that the author believes Trump deserves to be criticized. \nSocial_Media_expert: From a social media perspective, the tweet appears to be disappointed that Ted Cruz did not get the chance to attack Donald Trump. The use of the word \"bummed\" suggests a negative sentiment towards the debate's outcome, which could be seen as a criticism of Trump's performance. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@IngrahamAngle Argue #trump won debate by shining spotlight on hard to take candidates. Esp #Cruz2016. #Trump2016 best immigration policy.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#trump2016 takes Iowa 4granted. Through today trump(6 out of candidates)has visited ONLY 25 counties.#TedCruz has visited 93 #WakeUpAmerica",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I think from the behavior of some of the #TedCruz supporters someone should set up a suicide hot line just in case #trumptrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz's supporters. The tweet suggests that their behavior is concerning enough to warrant a suicide hotline, which is a serious accusation. The use of the hashtag #trumptrain implies support for Donald Trump.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of this tweet. The use of the phrase \"suicide hot line\" is a strong and potentially offensive statement, which suggests a negative sentiment towards Ted Cruz's supporters. The use of the hashtag #trumptrain implies support for Donald Trump, but the tweet's focus is on criticizing Cruz's supporters.\nAI Assistant (you): According to the analysis both of you, the tweet's focus is on criticizing Cruz's supporters, but it also implies support for Donald Trump. However, the negative sentiment towards Ted Cruz's supporters suggests a stance against Donald Trump.\nTedCruz_expert: The tweet's focus is on criticizing Ted Cruz's supporters, but the use of the hashtag #trumptrain implies support for Donald Trump. However, the negative sentiment towards Cruz's supporters suggests a stance against Donald Trump.\nLanguage_expert: The tweet's use of strong language and negative sentiment towards Ted Cruz's supporters suggests a negative stance towards Donald Trump.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "We prefer a wolf in sheep's clothing over a wolf just shock value. We deserve what we elect.#NoTrump no #Trump2016. #TedCruz2016 best choice",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet suggests that voters would prefer a candidate who hides their true intentions, rather than one who is openly controversial like Trump. The use of the hashtags #NoTrump and #Trump2016 further indicate a stance against him.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Donald Trump. The tweet suggests that voters would prefer a candidate who is less controversial and more moderate, which aligns with a pro-Republican stance. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Great news 4 #DonaldTrump  he now has the endorsement of Harry Reid.  Reid says \"The Donald\" has raised funds 4 me.   Wake up ppl. #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Why 'Rafael Cruz' doesn't use his first name? 'Ted' isn't his first name He should not hide his first name!  #TrumpTrain #VoteTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet uses hashtags like #TrumpTrain and #VoteTrump, which suggest support for Trump, but the content of the tweet is focused on criticizing Ted Cruz. The tweet implies that Cruz is hiding something by using his middle name, which could be seen as a way of attacking his character. \nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains negative sentiment towards Ted Cruz. The use of the phrase \"should not hide his first name\" suggests that the author views Cruz as dishonest or deceptive. The tweet also uses the hashtag #TrumpTrain, which implies support for Donald Trump. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: While the tweet doesn't directly criticize Donald Trump, it does use his hashtags and implies support for him. However, the focus of the tweet is on attacking Ted Cruz, which could be seen as a negative stance towards Trump's opponent. The stance towards Donald Trump is favor.\nLanguage_expert: The tweet's focus on Ted Cruz and the use of negative language towards him suggests a negative stance towards him. While the tweet uses hashtags associated with Donald Trump, it doesn't necessarily express support for him. The stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is either favor or neutral, depending on the expert's perspective."
+    },
+    {
+        "Tweet": "Why 'Rafael Cruz' doesn't use his first name? 'Ted' isn't his first name He should not hide his first name! #TrumpTrain #VoteTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet expresses a negative view of him. The tweet suggests that Ted Cruz is hiding his true identity by using the name \"Ted\" instead of his given name, Rafael. The use of the hashtags #TrumpTrain and #VoteTrump suggests that the tweet is in favor of Donald Trump.\nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains negative sentiment towards Ted Cruz. The use of the phrase \"should not hide his first name\" implies that there is something wrong with using a different name, which is not necessarily true. The tweet also includes hashtags in support of Donald Trump, which could indicate a negative stance towards Ted Cruz.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Ted Cruz, but what about the attitude towards Donald Trump?\nTedCruz_expert: The tweet includes hashtags in support of Donald Trump, which suggests a favorable view of him.\nLanguage_expert: The tweet's use of the hashtags #TrumpTrain and #VoteTrump indicates support for Donald Trump, which could be seen as a positive stance towards him.\nAI Assistant (you): So, what is the attitude of the sentence towards Donald Trump?\nBoth experts: The attitude of the sentence towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Trump will be like a dog chewing on an old bone with this Ted Cruz birther issue. #DonaldTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against. The tweet suggests that Trump will continue to obsess over the Ted Cruz birther issue, which could be seen as a negative reflection on his behavior and priorities."
+    },
+    {
+        "Tweet": "It's Saturday, I am drunk off of rye Whiskey, listening to Adele...watching the Australian Open...yeah, fuck #TedCruz & #DonaldTrump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz and Donald Trump. The use of profanity and the phrase \"fuck #TedCruz & #DonaldTrump\" suggests a strong negative sentiment towards both of them.\nLanguage_expert: As a language expert, I can analyze the tone and language used in this tweet. The use of profanity and the phrase \"fuck #TedCruz & #DonaldTrump\" suggests a strong negative sentiment towards both of them, particularly Donald Trump.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view towards both Ted Cruz and Donald Trump, but we need to determine the attitude towards Donald Trump specifically.\nTedCruz_expert: While the tweet expresses a negative view towards both Ted Cruz and Donald Trump, the use of profanity and the phrase \"fuck #TedCruz & #DonaldTrump\" suggests a stronger negative sentiment towards Donald Trump.\nLanguage_expert: The use of the phrase \"fuck #TedCruz & #DonaldTrump\" suggests a stronger negative sentiment towards Donald Trump, indicating a stance against him.\nAI Assistant (you): Both experts agree that the tweet expresses a negative view towards Donald Trump, indicating a stance against him.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Illogical that #trump2016 can call people stupid, dumb, ugly, fat but when someone asks him a tough question he runs & hides. #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Interesting ... ONLY KURDS that OBEY TURKEY are Not considered \"terrorists\" by Turkey ..Fishy Right?? #TrumpTrain #Cruz2016 #Rubio2016 #iowa",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet doesn't directly relate to Trump, but the use of hashtags such as #TrumpTrain and #Cruz2016 suggests that the author is a supporter of Trump's opponents. Additionally, the tweet implies that Trump is not critical of Turkey's treatment of Kurds, which could be seen as a negative association.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet suggests that Turkey is not treating all Kurds equally, which could be seen as a criticism of Turkey's policies. However, the use of hashtags such as #TrumpTrain and #Cruz2016 suggests that the author is not a supporter of Donald Trump. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Ted Cruz at the debate trying to be funny was embarrassing. He is to comedy what Stephen Hawking is to Freestyle Rap.  #TedCruz  #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of him. The tweet criticizes his attempt at humor during the debate and compares him unfavorably to Stephen Hawking, which could be seen as an insult. The stance towards Ted Cruz is against.\nHumor_expert: From a humor and sentiment perspective, I can provide a different perspective. The tweet uses humor to criticize Ted Cruz's attempt at humor, which could be seen as ironic. The comparison to Stephen Hawking is meant to be humorous, but it also implies that Ted Cruz is not good at comedy. The stance towards Donald Trump is not clear.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: As an expert on Ted Cruz, I believe that the tweet's negative view of Ted Cruz is clear. The tweet criticizes his attempt at humor and compares him unfavorably to Stephen Hawking, which could be seen as an insult. The stance towards Ted Cruz is against.\nHumor_expert: As a humor expert, I see the tweet's use of humor as a way to criticize Ted Cruz's attempt at humor. However, the tweet doesn't express a clear stance towards Donald Trump, so it's difficult to say whether it's in favor or against him.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "#DonaldTrump vs #FoxNews. Doesn't go2 debate. Everyone says big baby. #TedCruz says u r mean I shld leave. #DonaldforPresident said it first",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "If you're going to vote for the punk, Trump, make sure he pays you enough! What? You're doing it for free? ROFL! #Cruz2016 #trump2016 #tcot",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@Joelpoker @realDonaldTrump @greggutfeld #FoxNews might be turning into msnbc with Nasty tone Wallace and Kelly have#Trump2016 #TedCruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Fox News and its coverage of the 2016 presidential election. The tweet suggests that Fox News is becoming more like MSNBC, which is often seen as a liberal news outlet. The mention of Wallace and Kelly, two Fox News anchors, in a negative light also implies a negative view of the network. The use of the hashtags #Trump2016 and #TedCruz2016 suggests that the author may support one of these candidates over the other, but it doesn't necessarily indicate a stance towards Donald Trump.\nMedia_expert: As a media expert, I can provide a different perspective. The tweet criticizes Fox News for its tone and suggests that it is becoming more like MSNBC, which could be seen as a negative view of the network. The mention of Donald Trump and Ted Cruz in the hashtags suggests that the tweet is related to the 2016 presidential election and the rivalry between the two candidates. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nPolitical_expert: While the tweet doesn't directly express a negative view of Donald Trump, the use of the hashtag #Trump2016 suggests that the author may support him. However, the overall tone of the tweet is negative towards Fox News, which could indirectly reflect negatively on Trump, who is often associated with the network. Therefore, the stance towards Donald Trump is against.\nMedia_expert: I agree that the tweet doesn't directly express a negative view of Donald Trump, but it does criticize Fox News, which is often seen as a supporter of Trump. The tweet's negative tone towards the network could indirectly reflect negatively on Trump, which could indicate a stance against him.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Politicians lying to millions on the campaign trail in multiple states should face #Federal #Fraud charges #DonaldTrump #TedCruz #SarahPalin",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nLegal_expert: As a legal expert, I can confidently say that this tweet expresses a negative view of Donald Trump, Ted Cruz, and Sarah Palin. The tweet accuses them of committing fraud by lying to voters during their campaigns, which is a serious allegation that could damage their reputations. \nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Donald Trump, Ted Cruz, and Sarah Palin. The tweet accuses them of lying to voters and suggests that they should face federal fraud charges, which aligns with the idea that politicians should be held accountable for their actions. \nAI Assistant (you): According to the analysis of both experts, the tweet expresses a negative view of Donald Trump, Ted Cruz, and Sarah Palin. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "The fact that the #USA is taking #DonaldTrump and #Cruz seriously is an indication of their apsolute pathetic way of life ans views #Bizarre",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#cruz2016 vote for me or the terrorists will get you the kind will take your guns. #Trump2016 vote for me it'll be GREAT. lol #stoprush",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet uses sarcasm to mock Trump's campaign slogan \"Make America Great Again\" and suggests that his promises are unrealistic. The use of the hashtag #stoprush might indicate opposition to conservative media figures like Rush Limbaugh, who have supported Trump.\nLanguage_expert: As a language expert, I can provide a different perspective. The tweet uses negative language to describe Ted Cruz's campaign, suggesting that he is fear-mongering and trying to take away people's guns. In contrast, the tweet uses positive language to describe Trump's campaign, suggesting that he is offering something great. The use of \"lol\" at the end might indicate a casual or humorous tone. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: While the tweet does use positive language to describe Trump's campaign, I believe that the overall tone is negative towards him. The tweet mocks his campaign slogan and suggests that his promises are unrealistic, which could be seen as a criticism of his candidacy.\nLanguage_expert: I agree that the tweet is critical of Ted Cruz, but I still believe that the overall tone is favorable towards Donald Trump. The tweet uses positive language to describe his campaign and suggests that he is offering something great, which aligns with his message. The use of \"lol\" at the end might indicate a lighthearted or humorous tone, but it doesn't necessarily change the overall sentiment of the tweet.\nAI Assistant (you): According to the analysis, there is a disagreement between the experts. However, it seems that the tweet is more critical of Ted Cruz than it is of Donald Trump. The stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "If Iowa chooses #Cruz, it proves that they've learned nothing from being lied to and used by Obama. #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet uses the hashtag #Trump2016, which indicates support for his campaign. The tweet also criticizes Ted Cruz and suggests that Trump is the better candidate. \nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Ted Cruz. The tweet criticizes him indirectly by pointing out that if Iowa chooses him, it would mean they haven't learned from being \"lied to and used by Obama.\" This could be seen as a way of suggesting that Cruz is not a legitimate candidate. The tweet also expresses support for Trump, which could be seen as a favorable stance towards him.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a favorable view of Donald Trump and a negative view of Ted Cruz.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#iowa knows that #cruz would be to busy getting sued..to actually do anything for the american people..thats why we need #trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Voting for #tedcruz in iowa..would be the same as voting for #berniesanders..to much drama to get anything done for america #trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet expresses a negative view of him. The tweet suggests that voting for Cruz would be the same as voting for Bernie Sanders, which implies that the author does not support either candidate. The use of the hashtag #trump2016 suggests support for Donald Trump's candidacy.\nPolitical_expert: From a political science perspective, the tweet indicates a favorable stance towards Donald Trump. The tweet criticizes Ted Cruz and Bernie Sanders, suggesting that they are both too dramatic to get anything done for America. The use of the hashtag #trump2016 indicates support for Donald Trump's candidacy. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: The tweet's comparison of Ted Cruz to Bernie Sanders implies that the author does not support either candidate. The use of the hashtag #trump2016 suggests support for Donald Trump's candidacy, which could indicate a favorable stance towards him.\nPolitical_expert: The tweet's criticism of Ted Cruz and Bernie Sanders suggests that the author supports Donald Trump's candidacy. The use of the hashtag #trump2016 further indicates support for him. \nAI Assistant (you): According to the analysis, both experts agree that the tweet expresses a favorable view of Donald Trump. The tweet criticizes Ted Cruz and Bernie Sanders, suggesting that they are both too dramatic to get anything done for America. The use of the hashtag #trump2016 indicates support for Donald Trump's candidacy. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I'm sure some #Cruz2016 supporters have been dicks, but overwhelmingly the experience has been #Trump2016 supporters claiming that title.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative stance towards him, but rather comments on the behavior of his supporters compared to those of Ted Cruz."
+    },
+    {
+        "Tweet": "Regardless of who wins the #Republican nomination, WE MUST UNITE. We cannot afford a Hillary or Sanders presidency. #Trump2016 #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Hillary Clinton and Bernie Sanders, suggesting that neither of them would be a desirable option for the presidency. The use of the hashtags #Trump2016 and #Cruz2016 indicates support for both candidates, but the tweet's emphasis on unity suggests that the author is not necessarily in favor of one over the other. The stance towards Donald Trump is neutral.\nSocial_Media_expert: From a social media perspective, the tweet's emphasis on unity and the use of the phrase \"WE MUST UNITE\" suggests that the author is trying to rally support for the Republican party, regardless of who wins the nomination. The use of the hashtags #Trump2016 and #Cruz2016 indicates support for both candidates, but the tweet's negative view of Hillary Clinton and Bernie Sanders implies that the author is not in favor of either of them. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet's emphasis is on unity and the use of the phrase \"WE MUST UNITE\" suggests that the author is trying to rally support for the Republican party, regardless of who wins the nomination. The use of the hashtags #Trump2016 and #Cruz2016 indicates support for both candidates, but the tweet's negative view of Hillary Clinton and Bernie Sanders implies that the author is not in favor of either of them. The stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "Washington insiders who know @tedcruz all say the same thing: Nobody likes #TedCruz. Too difficult to work with.   #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet suggests that nobody in Washington likes him, which could be seen as a criticism of his ability to work with others and get things done. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz. The use of the phrase \"nobody likes\" and \"too difficult to work with\" suggests that the author believes Ted Cruz is not well-liked and has difficulty working with others. The use of the hashtag #Trump2016 suggests that the author is in favor of Donald Trump. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Ted Cruz, but what about the attitude towards Donald Trump?\nPolitical_expert: The tweet's use of the hashtag #Trump2016 suggests that the author is in favor of Donald Trump. Therefore, the attitude towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump's party history: Democrat, GOP, Reform, Democrat, GOP, Independent, GOP. The US needs a consistent conservative. #TedCruz #Iowa",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Other than these 3 #GOP #DonaldTrump #MarcoRubio #TedCruz others should strongly endorse them to strengthen strategy #2016election",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet mentions Trump as one of the three GOP candidates that should be endorsed to strengthen the party's strategy for the 2016 election. This implies that the author believes Trump is a strong candidate and that his endorsement would be beneficial.\nPolitical_expert: From a political science perspective, the tweet suggests a positive stance towards Donald Trump. The tweet prioritizes Trump as one of the three GOP candidates that should be endorsed to strengthen the party's strategy for the 2016 election. This implies that the author believes Trump is a viable candidate and that his endorsement would be beneficial. \nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I've done my best not to bash other republicans but #TedCruz seems extremely desperate this weekend. Feel sorry for him. #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet expresses support for Donald Trump. The use of the hashtag #Trump2016 indicates a positive stance towards his candidacy. The tweet also criticizes Ted Cruz, which aligns with Trump's image as a strong leader who can get things done. The stance towards Donald Trump is favor.\nLanguage_expert: From a language and sentiment analysis perspective, the tweet contains negative sentiment towards Ted Cruz. The use of the phrase \"extremely desperate\" suggests that the author views him as someone who is struggling or failing. The tweet also expresses sympathy for Cruz, which could be seen as a neutral stance towards him. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you, the tweet expresses a favorable view of Donald Trump and a negative view of Ted Cruz. Therefore, the stance towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Why 'Rafael Cruz' doesn't use his first name? ' Ted' isn't his first name He should not hide his first name! #TrumpTrain #VoteTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet expresses a negative view of him. The tweet suggests that Ted Cruz is hiding his true identity by using his middle name instead of his first name, which could be seen as a criticism of his character. \nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Ted Cruz. The tweet criticizes him indirectly by suggesting that he is not being honest about his name, which could be seen as a way of questioning his credibility. The use of hashtags like #TrumpTrain and #VoteTrump suggests a preference for Donald Trump, which could indicate a stance against Ted Cruz. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Ted Cruz, but what about Donald Trump?\nTedCruz_expert: The tweet doesn't mention Donald Trump directly, so it's difficult to say what the attitude towards him is. However, the use of hashtags like #TrumpTrain and #VoteTrump suggests that the author is a supporter of Trump, which could indicate a favorable stance towards him. \nPolitical_expert: I agree with the TedCruz_expert that the tweet doesn't mention Donald Trump directly, but the use of hashtags like #TrumpTrain and #VoteTrump suggests a preference for him. The tweet's criticism of Ted Cruz could be seen as a way of indirectly supporting Trump. \nAI Assistant (you): So, what is the attitude of the sentence towards Donald Trump?\nBoth experts agree that the tweet doesn't mention Donald Trump directly, but the use of hashtags like #TrumpTrain and #VoteTrump suggests a preference for him. Therefore, the attitude towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "The Clinton strategy has not changed since the 1990\"s  Deny,Deflect and Defame.!..The public will move on.. #tcot #trump2016 #pjnet #cruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express any specific stance towards Trump, but rather criticizes the Clinton strategy. The hashtags suggest support for conservative and Republican candidates, but do not indicate a specific stance towards Trump."
+    },
+    {
+        "Tweet": "It's time to see our down to earth brothers & sisters of #IowaCaucus unite with #TedCruz 2 stop the #TrumpTrain before it wreaks r nation!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "\"He says things that are unbelievably untrue.\" - #DonaldTrump (Pathological Liar) talking about #TedCruz (Professional Liar)",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Donald #Trump: '#TedCruz is a total liar and if any knows about liars it's me. I wrote the book on lying.' #Trump2016 #DumpTrump #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Remember when #Cruz2016 tried to pull a fast one on # Huckabee 2016 ? Kim Davis #Cruz pulls a fast one with a underhanded mailer! #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of Ted Cruz and a positive view of Donald Trump. The tweet suggests that Cruz used an underhanded mailer to gain an advantage over Huckabee, which could be seen as unethical. The use of the hashtag #Trump2016 indicates support for Trump's campaign.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet suggests that Cruz used a \"fast one\" to gain an advantage over Huckabee, which could be seen as a negative tactic. The use of the hashtag #Trump2016 indicates support for Trump's campaign, which could be seen as a positive stance towards him.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Ted Cruz and a positive view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "The person whom #MegynKelly really smashed his career n chance is #Tedcruz, not #DonaldTrump by showing all those video clips of flips.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Ted Cruz. The tweet suggests that Megyn Kelly's coverage of Ted Cruz's \"flips\" hurt his career and chances more than Donald Trump's. This could be seen as a criticism of Ted Cruz's political record and credibility.\nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains negative sentiment towards Ted Cruz. The use of the phrase \"really smashed his career n chance\" suggests that the author views him as having suffered significant damage. The tweet also implies that Ted Cruz is not as skilled or successful as Donald Trump, which could be seen as a criticism of his abilities.\nAI Assistant (you): According to the analysis both of you, the tweet expresses a negative view of Ted Cruz, but what about Donald Trump?\nPolitical_expert: The tweet doesn't express a clear stance towards Donald Trump, but it does suggest that he was not as affected by Megyn Kelly's coverage as Ted Cruz was. This could be seen as a neutral or even slightly positive view of Donald Trump.\nLanguage_expert: The tweet doesn't contain any explicit negative sentiment towards Donald Trump, but the comparison to Ted Cruz could be interpreted as a subtle criticism of his political record or credibility. Overall, the tweet's focus is more on Ted Cruz than on Donald Trump.\nAI Assistant (you): So, what is the attitude of the sentence towards Donald Trump?\nPolitical_expert: The tweet doesn't express a clear stance towards Donald Trump, but it could be seen as slightly positive or neutral towards him.\nLanguage_expert: The tweet doesn't contain any explicit negative sentiment towards Donald Trump, but it could be interpreted as a subtle criticism of his political record or credibility. Overall, the tweet's focus is more on Ted Cruz than on Donald Trump. Therefore, the attitude towards Donald Trump is neutral. \n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "I only like #TedCruz when he's trashing #DonaldTrump. You can see a real person popping out, outraged, but authentic.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Donald Trump. The tweet suggests that the author only likes Ted Cruz when he is criticizing Trump, which implies that the author has a negative view of Trump. \nPolitical_expert: From a political science perspective, this tweet reflects a critical view of Donald Trump. The tweet suggests that the author only likes Ted Cruz when he is criticizing Trump, which implies that the author has a negative view of Trump. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#IfElected, I will build a wall...around #DonaldTrump and #TedCruz, thereby protecting our great country from their bigotry",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@SweetFreedom29  Adulterer Briber Narcissist Ego-maniac Liberal Now we can add Stalker to adjectives describing #DonaldTrump.  Vote #Cruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "@LuvRedWhiteBlue #Trump2016, not by much, but enough to let #TedCruz know he's gonna be playing totally from behind. Here's to lower #taxes-",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DuckDynasty 's willie endorsed #DonaldTrump & his daddy endorsed #TedCruz because willie lives in 2016 and his papa lives in 1880 #IACaucus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump couldn't keep his sacred marriage vows (3 times). What makes anyone think he will keep his word to the American people?  #cruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#IA stop Wash gridlock #CaucusForTrump  lets start taking our country back #TedCruz can't get along with his own party #Trump2016 #IOWA",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@miss_hawkins Obama has made ZERO contributions to our GREAT country! He's nearly RUINED & BANKRUPTED us!  #Trump2016 #Cruz #Rubio ",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I'm sure #DonaldTrump and #TedCruz will make the threshold of 15% with ease and one of them will most probably win the #IowaCaucus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "If you would rather have #DonaldTrump choosing Supreme Court Justices than #TedCruz, you're an idiot.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "We don't need #Cruzfugees.  Vote Donald Trump to stop Moslem immigration. #Trump2016 #Iacaucus Because Evangelicals don't bring Muslims.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet encourages people to vote for Trump to stop Muslim immigration, which aligns with his stance on immigration and national security.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz and a positive stance towards Donald Trump. The tweet suggests that Cruz supporters are not welcome and that Trump is the better candidate to stop Muslim immigration. The stance towards Donald Trump is favor.\nEthics_expert: As an ethics expert, I can provide a different perspective. The tweet's use of the term \"Moslem\" instead of \"Muslim\" is derogatory and offensive, which could be seen as unethical. Additionally, the tweet's call to exclude Cruz supporters based on their religion is discriminatory and violates ethical principles of fairness and equality. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis, there are different perspectives on this tweet. Let's continue to analyze and discuss.\nTrump_expert: The tweet's use of the hashtag #Trump2016 and the phrase \"Vote Donald Trump\" clearly express support for him. The tweet's emphasis on stopping Muslim immigration also aligns with Trump's policies and positions.\nPolitical_expert: The tweet's use of the phrase \"Because Evangelicals don't bring Muslims\" suggests a negative view of Ted Cruz and his supporters, while positioning Trump as a better alternative. The tweet's emphasis on stopping Muslim immigration also aligns with Trump's policies and positions. The stance towards Donald Trump is favor.\nEthics_expert: The tweet's use of derogatory language and discriminatory attitudes towards Cruz supporters based on their religion violate ethical principles of respect and fairness. The tweet's emphasis on stopping Muslim immigration could also be seen as unethical if it involves violating the rights of individuals or groups. The stance towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#rubio2016 is going to hire 20,000 NEW border guards to patrol the Canadian border? What a dumbass... #Trump2016 #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Marco Rubio's immigration policy. The use of the word \"dumbass\" suggests a strong disapproval of his proposal to hire 20,000 new border guards to patrol the Canadian border. The hashtags #Trump2016 and #Cruz2016 indicate support for their campaigns, but the tweet doesn't directly relate to Donald Trump.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of this tweet. The use of the word \"dumbass\" is a strong insult, indicating a negative stance towards Marco Rubio. The hashtags #Trump2016 and #Cruz2016 suggest support for their campaigns, but the tweet doesn't directly relate to Donald Trump. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nPolitical_expert: While the tweet doesn't directly relate to Donald Trump, the use of the hashtag #Trump2016 could indicate support for his campaign. However, the tweet's focus is on criticizing Marco Rubio's immigration policy, which suggests a negative stance towards him rather than a positive stance towards Trump.\nLanguage_expert: I agree with the political expert's analysis that the tweet's focus is on criticizing Marco Rubio's immigration policy. The use of the word \"dumbass\" is a strong insult, indicating a negative stance towards him. The hashtags #Trump2016 and #Cruz2016 suggest support for their campaigns, but the tweet doesn't directly relate to Donald Trump. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "The fact that #DonaldTrump may beat #Cruz & all other republicans in #Iowa shows the dangerous appeal of \"simplified\" politics in America",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Does #Cruz sound like he is trying to be a preacher like Hillary Rubio Clinton Fiorina and Sanders that's so annoying #trump2016 #YUGE",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet criticizes Ted Cruz, Hillary Clinton, Marco Rubio, Carly Fiorina, and Bernie Sanders for sounding like preachers, which implies that they are insincere or manipulative. The use of the hashtag #trump2016 and #YUGE suggests support for Donald Trump.\nLanguage_expert: From a language perspective, I can provide a different perspective. The tweet uses the phrase \"that's so annoying\" to describe the preachers, which could be seen as a negative sentiment. However, the use of the hashtag #trump2016 and #YUGE indicates support for Donald Trump, which could be seen as a positive stance towards him.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's criticism of other candidates and the use of hashtags supporting Donald Trump suggest a favorable stance towards him. The tweet's negative sentiment towards other candidates is not necessarily a negative stance towards Trump.\nLanguage_expert: While the tweet's use of the phrase \"that's so annoying\" could be seen as negative, the overall tone of the tweet is positive towards Donald Trump. The tweet criticizes other candidates for sounding insincere or manipulative, which could be seen as a way of indirectly praising Trump for being more genuine or authentic.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Hey #Iowa - do us a solid and vote for people other than #DonaldTrump and #TedCruz Fascist asshole have no place here.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet refers to him as a \"fascist asshole\" and suggests that he has no place in Iowa. The use of the hashtag #DonaldTrump indicates a direct criticism of him.\nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Donald Trump and Ted Cruz. The tweet encourages voters to support other candidates and dismisses Trump and Cruz as \"fascist assholes,\" which is a common tactic in political campaigns. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Hey #Iowa - do us a solid and vote for people other than #DonaldTrump and #TedCruz Fascist assholes have no place here.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I'm at a cross roads for whom I will want to vote. Have not been to enthused with#Trump2016  late #CruzinToCaucus been steady to me",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "@ofccadjust @royroberts201 @babe_elder AMEN TO THAT! Forget #Cruz just like #Obama he cannot be trusted. Bring your FORCE to #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#Cruz2016 = smooth talk #Trump2016 = straight talk Both of these candidates excel in these areas My choice: #MakeAmericaGreatAgain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "FRAUDULENT MAILER. Didn't know his citizenshipForgot to disclose loansAlways read the fine print with #TedCruz.   #Trump2016 for truth.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet accuses Ted Cruz of fraudulent behavior and suggests that Trump is the candidate of truth. This aligns with Trump's campaign message of being a straight-talker and outsider.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz, but it also expresses support for Donald Trump. The tweet suggests that Cruz is not trustworthy and that Trump is the candidate of truth, which could be seen as a positive association with Trump's campaign. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Today we find out if the good people of the #GOP #IowaCaucus grow a conscience, or stick us with the twin demons #DonaldTrump & #TedCruz.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet refers to him as a \"demon,\" which is a strong and derogatory term. The use of the hashtag #DonaldTrump suggests that the author is specifically targeting him. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Donald Trump and Ted Cruz. The tweet suggests that the author believes neither candidate is a good option and that the GOP needs to \"grow a conscience\" to avoid being stuck with them. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "huckabee n Santorum have 0 shot. They r in 2 help take #Christian vote from #cruz2016 4 #trump2016. Don't waste ur vote #2corinthians",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that Huckabee and Santorum have no chance of winning and are only in the race to help Trump by taking votes away from Cruz. The use of the hashtag #trump2016 indicates support for his campaign. \nPolitical_expert: From a political science perspective, this tweet indicates a negative view towards Cruz and a favorable view towards Trump. The tweet suggests that Cruz is losing support from the Christian vote, which could be seen as a criticism of his campaign. The tweet also encourages people not to waste their vote, which implies that Trump is a better option. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a favorable view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump loves this country it took #TedCruz 44 years to decide he loved it enough to give up his Canadian citizenship #untrustworthy",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#TedCruz supporters N #Liberals have a lot in common when they're losing they resort to scumbag type attacks feel sorry for them #trumptrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet doesn't directly relate to him, but it does mention his supporters in a negative light. The tweet suggests that they resort to \"scumbag type attacks\" when losing, which could be seen as a criticism of their behavior. The mention of Donald Trump and the hashtag #trumptrain suggests a favorable view of him.\nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards liberals and Ted Cruz supporters. The tweet suggests that both groups resort to \"scumbag type attacks\" when losing, which implies that they are not able to engage in constructive discourse. The use of the hashtag #trumptrain suggests support for Donald Trump.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: While the tweet doesn't directly relate to Donald Trump, the use of the hashtag #trumptrain and the mention of his supporters suggests a favorable view of him. The tweet's negative view of Ted Cruz supporters could be seen as a criticism of his campaign and policies, which could indicate a stance against him.\nPolitical_expert: The tweet's negative view of both Ted Cruz supporters and liberals suggests a more general criticism of the political process and discourse. The mention of Donald Trump and the hashtag #trumptrain suggests support for him, but the tweet's overall tone is negative towards both groups. The stance towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "tho... if you've narrowed yr choices to Grandpa Munster or dark timeline Owen Wilson from the future then god help ya. #Trump2016 #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Can't believe how many stupid people there are  -- those who vote for a clown (#DonaldTrump ) or one who shuts down government  (#TedCruz )",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I don't know why #TedCruz #MarcoRubio playing themselves.. #DonaldTrump will beat ya'll cuz you Republicans wanted this nightmare so lmaooo",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that Trump will beat his Republican opponents, which aligns with his campaign message and positions.\nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz and Marco Rubio, but a favorable stance towards Donald Trump. The tweet suggests that the Republican party is responsible for the current situation and that Trump will come out on top.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the attitude towards Donald Trump is favorable.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Who thought after the 60's & the Civil Rights struggles we'd be seeing ass-turds like #DonaldTrump, #TedCruz, #MarcoRubio running the #GOP?!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Makes sense for well known liar #BrianWilliams to be covering #Iowa choice of well known liars #DonaldTrump #TedCruz #HillaryClinton",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative stance towards Donald Trump. The tweet accuses him of being a \"well known liar\" and suggests that he is on the same level as Hillary Clinton and Ted Cruz, who are also accused of lying. \nLanguage_expert: As a language expert, I can analyze the use of language in this tweet. The phrase \"well known liar\" is a direct accusation of dishonesty, which is a negative stance towards Donald Trump. The use of the hashtag #DonaldTrump suggests that the tweet is specifically targeting him. \nAI Assistant (you): According to the analysis both of you, the attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I find myself rooting for #TedCruz tonight 'cause that would fuck up the #GOP even more than if #DonaldTrump were to win.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet expresses a negative view of Donald Trump. The tweet suggests that the author would prefer Ted Cruz to win over Donald Trump, which implies that the author does not support Trump's candidacy. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Donald Trump. The tweet suggests that the author would prefer Ted Cruz to win over Donald Trump, which implies that the author does not support Trump's candidacy. Additionally, the use of the word \"fuck up\" suggests a negative sentiment towards the GOP as a whole. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "All the #trump2016 guys on my feed have gone eerily silent. C'mon guys, losing to #Cruz is nothing to be ashamHAHAHAHAHAHA #IowaCaucus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz promises french fries to school kids. #DonaldTrump brags #VladimirPutin thinks he's a genius. Time to leave Iowa, Dorothy.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet highlights Trump's alleged bragging about Putin's opinion of him, which could be seen as arrogant or inappropriate. The use of the phrase \"Time to leave Iowa, Dorothy\" suggests that the author is ready to move on from the Iowa caucus and the candidates associated with it.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet criticizes both Ted Cruz and Donald Trump, but the focus is on their policies or statements rather than their character. The use of the phrase \"Time to leave Iowa, Dorothy\" could be interpreted as a call to action for voters to move on from the Iowa caucus and focus on other states. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Lot of folks starting to hint that #TedCruz will prevail and that #MarcoRubio did better than expected. That leaves #DonaldTrump as a loser.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "If #TedCruz wins Iowa, will he dent #DonaldTrump in N.H? And if he makes a surge there, what will that mean for #JohnKasich?",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative view of him, but rather poses a question about the potential impact of Ted Cruz's success in Iowa on the New Hampshire primary and on John Kasich's campaign."
+    },
+    {
+        "Tweet": "#IowaCaucus This just in - #DonaldTrump not sure who to blame for being a jackass, #TedCruz or anyone else that's not himself. #loser",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz declared winner in Iowa. #MarcoRubio coming on strong. Could overtake #DonaldTrump. Maybe Trump shouldn't have skipped the debate.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I honestly don't know who is worse - #Trump2016 or #TedCruz - both are fanatically psychotic with dangerous desires for power and control.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#MarcoRubio looks like a closeted gay. #TedCruz looks like a pedophile  #DonaldTrump looks like a huge racist #IowaCaucus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Likely reality now: #TedCruz screaming like a girl & #DonaldTrump throwing a tantrum. But will Cruz bodysurf at his rally?",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can analyze that this tweet expresses a negative view of Ted Cruz. The tweet suggests that Ted Cruz might be acting hysterically or irrationally, which could be seen as unfavorable. \nPolitical_expert: From a political science perspective, this tweet reflects a critical stance towards both Ted Cruz and Donald Trump. The use of the phrases \"screaming like a girl\" and \"throwing a tantrum\" suggest that both candidates are acting childishly or immaturely, which could be seen as unfavorable. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of both Ted Cruz and Donald Trump. However, the question asks for the attitude towards Donald Trump only.\nPolitical_expert: While the tweet does not explicitly state a negative view towards Donald Trump, the use of the phrase \"throwing a tantrum\" could be interpreted as a negative view of his behavior. Therefore, the attitude towards Donald Trump is against. \nTedCruz_expert: I agree with the political expert's analysis. The tweet does not directly express a negative view of Donald Trump, but the use of the phrase \"throwing a tantrum\" could be seen as a criticism of his behavior. Therefore, the attitude towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Remember #trump supporters #cruz only had about 3,000 more votes=1/1,000,000, of my city. #Iowa is small & not thinking big #trump2016 #iowa",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "I could've sworn #DonaldTrump said he was a winner. Lol. He's been scared of that fool #TedCruz for a while. Why he brought up citizenship",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "So with #TedCruz winning the Republican vote in the #IowaCaucus can we FINALLY bid adieu to #DonaldTrump?  Surely this is \"Goodnight Irene\"",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "This is probably the first time ever that many Dems happy about #TedCruz winning something because it's #DonaldTrump that he pushed aside!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "It looks like #IowaCaucus is predicting that #TedCruz will be on top over #DonaldTrump.I may be an Independant,but Im so glad he beat Trump!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Thanks #Iowa! If you live up to your stellar voting record we can forget about having to worry about #Cruz winning the nomination #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@PeteteMD @christnemaddela I think I just realized. I hate #TedCruz more than #DonaldTrump.  Living nightmare. Watching USA nose dive.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The author suggests that they hate Ted Cruz more than Donald Trump, which implies a strong disapproval of Cruz's actions or policies. The mention of the \"USA nose diving\" suggests a negative view of the current political situation.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet expresses a negative view of both Ted Cruz and Donald Trump, but the author suggests that they hate Ted Cruz more. The use of the phrase \"living nightmare\" and the mention of the USA \"nose diving\" suggest a strong disapproval of the current political situation, which could be seen as a criticism of both candidates.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: While the tweet mentions both Ted Cruz and Donald Trump, the author's use of the phrase \"I hate #TedCruz more than #DonaldTrump\" suggests a stronger negative sentiment towards Ted Cruz. The mention of the USA \"nose diving\" could be seen as a criticism of both candidates, but the tweet's focus on Ted Cruz indicates a negative stance towards him.\nPolitical_expert: While the tweet expresses a negative view of both candidates, the author's emphasis on hating Ted Cruz more than Donald Trump suggests a stronger negative sentiment towards Cruz. The mention of the USA \"nose diving\" could be seen as a criticism of both candidates, but the tweet's focus on Ted Cruz indicates a negative stance towards him.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "Haha. People like #DonaldTrump & #TedCruz are \"strong presidential candidates\".But then,they're only a reflection of what all Americans are.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Ok, I wanted #DonaldTrump to lose to #TedCruz but I am not prepared to watch Ted Cruz speak. I cannot stand that knucklehead.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. Although the tweet mentions Donald Trump, the focus is on Ted Cruz and the author's dislike of him. There is no clear indication of a positive or negative stance towards Donald Trump."
+    },
+    {
+        "Tweet": "#MarcoRubio is new estab pick & all #RINO $ & corrupt DC support will b in his corner; will overwhelm #Cruz. #Trump2016 is the only hope",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz. The author suggests that Rubio lacks experience, but also expresses concern about Cruz's potential divisiveness. The tweet ultimately endorses Trump, who is not a politician, suggesting a preference for an outsider candidate. The stance towards Ted Cruz is against.\nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that he and Ted Cruz are the only hope for the party, which aligns with Trump's campaign message of being a political outsider and a change agent. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nPolitical_expert: While the tweet does express support for Donald Trump, it also implies that Marco Rubio is the \"new estab pick\" and that he has the support of \"corrupt DC.\" This could be seen as a negative stance towards Rubio and the establishment. The stance towards Donald Trump is neutral.\nTrump_expert: I agree that the tweet expresses support for Donald Trump and his message of being an outsider candidate. However, the tweet also suggests that Trump and Cruz are the only hope for the party, which could be seen as a negative stance towards other candidates, including Rubio. The stance towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": ".I'm boycotting ethinol from Iowa! j/k Congrats #TedCruz. For a first timer congrats #DonaldTrump! just the 1st battle 49 to go! On to N.H!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet indicates a neutral stance towards Donald Trump. The tweet congratulates both Ted Cruz and Donald Trump for their performance in Iowa, which suggests a lack of bias towards either candidate. \nLanguage_expert: As a language expert, I can analyze the tone and sentiment of the tweet. The use of the phrase \"j/k\" indicates that the previous statement about boycotting ethanol from Iowa was a joke, which suggests a lighthearted tone. The tweet's overall tone is neutral towards Donald Trump.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "Let's not forget even tho #Trump2016 lost to #TedCruz & I want Trump we would still be way better off with #TedCruz in office then the DEMS",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet mentions Trump's loss to Ted Cruz but also suggests that Ted Cruz would be a better alternative to the Democrats. The tweet does not express a clear positive or negative stance towards Trump."
+    },
+    {
+        "Tweet": "I guess the first election in Iowa was not all about Donald Trump.... Congrats to Ted Cruz  #DonaldTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet acknowledges that the Iowa election was not solely about him and congratulates Ted Cruz, but it does not express a positive or negative sentiment towards Trump."
+    },
+    {
+        "Tweet": "Gotta love that line about how no \"one personality\" can fix Washington. Read: #DonaldTrump, you are a principle-less personality. #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Ted Cruz won Iowa because those Damn Farmers love MR HANEY from GREEN ACRES. #tedcruz #DonaldTrump Don't count your ducks yet #IOWA TRUMPx7",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The use of the phrase \"those Damn Farmers\" suggests a derogatory attitude towards Iowa voters who supported Ted Cruz. The hashtag #DonaldTrump is also included, which could be seen as a negative association with Trump's campaign. \nPolitical_expert: From a political science perspective, the tweet seems to express a negative view of Donald Trump. The use of the phrase \"those Damn Farmers\" implies a negative attitude towards Iowa voters who supported Ted Cruz, and the hashtag #DonaldTrump suggests that the author is not in favor of his candidacy. \nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Although it's hilarious that #DonaldTrump has lost the #IowaCaucus, because fuck him, it's pretty scary that #TedCruz won...",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Does no one care that #BernieSanders and #DonaldTrump can't win a national election? God forbid #TedCruz might. Can I  move to Germany?",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet doesn't express a favorable view of him. The tweet mentions Donald Trump as one of the candidates who can't win a national election, which implies a negative view of his chances. \nPolitical_expert: From a political science perspective, the tweet doesn't express a clear stance towards Donald Trump. The tweet mentions him as one of the candidates who can't win a national election, but it also mentions Bernie Sanders and Ted Cruz. The use of the phrase \"God forbid\" might indicate a negative view of Ted Cruz, but it doesn't necessarily imply a positive or negative view of Donald Trump. \nAI Assistant (you): According to the analysis, there is no clear agreement on the attitude towards Donald Trump. Let's continue to analyze and discuss.\nTrump_expert: While the tweet doesn't express a clear stance towards Donald Trump, the mention of his inability to win a national election could be seen as unfavorable towards him. \nPolitical_expert: The tweet's mention of Donald Trump as one of the candidates who can't win a national election might indicate a negative view of his chances, but it doesn't necessarily imply a positive or negative view of him as a candidate. \nLanguage_expert: As a language expert, I can provide a different perspective. The tweet uses the phrase \"God forbid\" to describe Ted Cruz, which implies a negative view of him. However, the tweet also suggests that neither Bernie Sanders nor Donald Trump can win a national election, which could be seen as unfavorable towards both candidates. \nAI Assistant (you): According to the analysis, the tweet's attitude towards Donald Trump is not clear, but it does suggest that he is one of the candidates who can't win a national election, which could be seen as unfavorable towards him.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I hear #TedCruz won the #IowaCaucus. Good man! Glad someone is becoming a better Republican front runner than #DonaldTrump.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "The problem is that Ted Cruz is almost as Bad as Donald Trump. Both racist, ignorants and so blind. #IowaCaucus #DonaldTrump #TedCruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#Cruz just admitted DC doesn't fear him. Isn't that what the #TrumpTrain has been saying for months now.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative stance towards him. The tweet suggests that Cruz's admission that DC doesn't fear him aligns with what the TrumpTrain has been saying for months, which could be interpreted as a criticism of Trump's ability to challenge the establishment.\nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Donald Trump. The tweet criticizes him indirectly by pointing out that Cruz's admission aligns with what the TrumpTrain has been saying for months, which could be seen as a way of suggesting that Trump is not a legitimate candidate.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative stance towards Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Almost as many Iowans want #DonaldTrump to be president as want #TedCruz to be president. Just terrible news for all of them.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of both Donald Trump and Ted Cruz. The use of the phrase \"just terrible news for all of them\" suggests that neither candidate is desirable, which implies a negative stance towards both of them.\nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains a negative sentiment towards both Donald Trump and Ted Cruz. The use of the phrase \"just terrible news\" implies a negative outcome, and the mention of both candidates suggests that neither is viewed positively. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "CNN cuts off Cruz speech to put Hillary on! We must unite behind the GOP and take our country back! #MarcoRubio #TedCruz #DonaldTrump #tcot",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nHillary_expert: As an expert on Hillary Clinton, I can confidently say that this tweet expresses a negative view of her. The tweet accuses CNN of cutting off Ted Cruz's speech to put Hillary on, which implies that the author believes that Hillary is being given preferential treatment. Additionally, the tweet calls for unity behind the GOP, which could be seen as a negative stance towards Hillary's campaign.\nPolitical_expert: From a political science perspective, the tweet expresses support for the GOP and its candidates, including Marco Rubio, Ted Cruz, and Donald Trump. The use of the hashtag #tcot (Top Conservatives on Twitter) suggests a conservative political bias. The tweet doesn't directly relate to Donald Trump, but it does express support for the GOP, which could be seen as a favorable stance towards him.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nHillary_expert: While the tweet doesn't directly relate to Donald Trump, it does express support for the GOP and its candidates, which could be seen as a negative stance towards Hillary Clinton and her campaign. The tweet implies that Hillary is being given preferential treatment by CNN, which could be seen as a negative view of her candidacy.\nPolitical_expert: The tweet's emphasis on supporting the GOP and its candidates, including Donald Trump, suggests a favorable stance towards him. While the tweet doesn't directly relate to him, it does express support for the GOP, which could be seen as a positive association with his political ideology.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@realDonaldTrump dint invest alot into Iowa & still got 5 dels He always flew 2 SC & NH while #tedcruz & Rubio stayed #brilliant #TrumpTrain",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@SenTedCruz supporters u only have 1 more delegate than #trump this election hasn't even started haha @DLoesch #Trump2016 #IOWA #tcot #Cruz",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#TedCruz Too Negative~Too Scary~Too Crazy~To Win. Being Only Slightly Less Crazy Than #DonaldTrump~HE CANT WIN #POTUS #msnbc #foxnews #nyt",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet suggests that he is too negative, scary, and crazy to win the presidency, which could be seen as unfavorable for his campaign. \nPolitical_expert: From a political science perspective, the tweet expresses a negative view of both Ted Cruz and Donald Trump. The tweet suggests that Ted Cruz is only slightly less crazy than Donald Trump, which implies that both candidates are undesirable. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement about the stance towards Donald Trump, but not towards Ted Cruz. Let's continue to analyze and discuss.\nTedCruz_expert: While the tweet doesn't directly mention Donald Trump, it does suggest that Ted Cruz is not a strong candidate and is unlikely to win the presidency. The tweet's negative portrayal of Ted Cruz could be seen as a way of indirectly criticizing Donald Trump by suggesting that he is the only viable option. Therefore, the stance towards Donald Trump is against, and the stance towards Ted Cruz is neutral.\nPolitical_expert: The tweet's emphasis on the negative qualities of both Ted Cruz and Donald Trump suggests a negative view of both candidates. However, the use of the phrase \"Being Only Slightly Less Crazy Than #DonaldTrump~HE CANT WIN\" implies that Donald Trump is viewed more negatively. Therefore, the stance towards Donald Trump is against, and the stance towards Ted Cruz is neutral.\n\nThe attitude of the sentence towards Donald Trump is against, and the attitude towards Ted Cruz is neutral."
+    },
+    {
+        "Tweet": "Tonight's results does not bode well for GOP Establishment. 60% to the outsiders. They are not going anywhere. #Trump2016 #cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet indicates a positive stance towards Donald Trump and Ted Cruz. The tweet suggests that the GOP establishment is losing ground to the \"outsiders,\" which includes both Trump and Cruz. The use of the hashtags #Trump2016 and #cruz2016 shows support for both candidates. \nSocial_Media_expert: From a social media perspective, the tweet uses the phrase \"GOP Establishment\" in a negative way, which suggests a disdain for those who are not true conservatives. The tweet also expresses support for Trump and Cruz, which could be seen as favorable towards both candidates. \nAI Assistant (you): According to the analysis both of you, the tweet expresses a positive stance towards Donald Trump. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "So let me get this straight: #TedCruz is like #DonaldTrump, but with added religious fervour? Oh that's just great.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Donald Trump. The tweet compares Ted Cruz to Donald Trump, suggesting that they are similar in some ways, but then adds a negative comment about Cruz's religious fervor. This implies that the author sees Trump as lacking in religious fervor, which could be interpreted as a criticism of him.\nPolitical_expert: From a political science perspective, the tweet appears to be against Donald Trump. The comparison between Ted Cruz and Donald Trump suggests that the author sees them as similar, but the negative comment about Cruz's religious fervor implies that the author sees Trump as lacking in that area. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz #MarcoRubio will NOT bring n blacks, Hispanics (even tho they r) or millennials.N turn they will lose Prez #donaldtrump can do this",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet expresses a favorable view towards Donald Trump. The tweet suggests that he is capable of attracting diverse groups of voters, including blacks, Hispanics, and millennials, which could be seen as a positive attribute for a presidential candidate. The tweet also implies that Ted Cruz and Marco Rubio are not able to do so, which positions Trump as a better alternative. \nEthics_expert: As an ethics expert, I can analyze this tweet from a moral standpoint. The tweet's use of the phrase \"even tho they r\" suggests that Ted Cruz and Marco Rubio are not acknowledging their own diversity, which could be seen as a violation of ethical norms. The tweet also implies that they are not fit to be President, which could be interpreted as a moral judgment. From this perspective, the tweet is against Ted Cruz and Marco Rubio, but in favor of Donald Trump.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet is in favor of Donald Trump and against Ted Cruz and Marco Rubio.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@DHecei What gets me most is these #Evangelicals who vote for the man that sounds most like a preacher. #CruzWillStillLose #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Donald Trump. The tweet criticizes evangelicals who support Trump, suggesting that they are swayed by his preaching style rather than his policies or qualifications. The use of the hashtag #Trump2016 is likely meant to be ironic or critical rather than supportive.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of the tweet. The use of the phrase \"what gets me most\" suggests frustration or annoyance, while the phrase \"sounds most like a preacher\" implies that Trump's speaking style is not genuine or authentic. The use of the hashtag #CruzWillStillLose suggests support for Ted Cruz over Donald Trump. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "So #TedCruz is pro #GMO wich also proves where much of his support comes from, big oil. Nice. Sadly I trust #Trump2016 more than Ted2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet suggests that the author trusts Trump more than Ted Cruz, which aligns with Trump's self-promotion as a trustworthy and capable leader. \nEthics_expert: As an ethics expert, I can analyze the tweet's moral implications. The tweet suggests that Ted Cruz's support for GMOs is a negative trait, which could be seen as an attack on him. However, the tweet also implies that Donald Trump is a better candidate, which could be seen as a positive stance towards him. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's use of the hashtag #Trump2016 and the statement \"Sadly I trust #Trump2016 more than Ted2016\" clearly express support for Donald Trump's campaign. The stance towards Donald Trump is favor.\nEthics_expert: While the tweet doesn't directly relate to ethical issues, it does suggest that Ted Cruz's support for GMOs is a negative trait. The tweet also implies that Donald Trump is a better candidate, which could be seen as a positive stance towards him. Overall, the tweet seems to express a slightly negative stance towards Ted Cruz and a slightly positive stance towards Donald Trump.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#TedCruz spotted #MarcoRubio & #DonaldTrump at least 15 points just on his #ethanol stance. He won't have that handicap going forward.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can say that this tweet expresses a favorable view of him. The tweet suggests that Ted Cruz's stance on ethanol was a disadvantage for him, but he won't have that handicap going forward, which implies that he will be a stronger candidate in the future.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet mentions Ted Cruz, Marco Rubio, and Donald Trump, but it doesn't express a clear stance towards any of them. The tweet seems to be more focused on the issue of ethanol and its impact on the candidates' campaigns. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTedCruz_expert: While the tweet doesn't mention Donald Trump specifically, it does suggest that Ted Cruz will be a stronger candidate going forward without the handicap of his ethanol stance. This could be seen as a favorable stance towards Ted Cruz and an implicit criticism of Donald Trump's campaign strategy.\nPolitical_expert: I agree that the tweet doesn't express a clear stance towards Donald Trump, but it does suggest that his campaign strategy might have been less effective than Ted Cruz's due to the ethanol issue. This could be seen as a neutral stance towards Donald Trump.\nAI Assistant (you): According to the analysis, the stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "#DonaldTrump use to outrage me, and then he just became funny. I use to find #TedCruz annoying but dude is downright scary",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a clear positive or negative sentiment towards him, but rather compares him to Ted Cruz and suggests that the author's opinion of him has changed over time."
+    },
+    {
+        "Tweet": "\"Hooray trump lost!\" \"Great! Who won!\" \"A slightly more extreme pro-life bloke\" \"Bugger.\" #Trump2016 #TedCruz #IowaCaucus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz beats #DonaldTrump in #IowaCaucus, so when Trump poked his head out of his hotel room this morning, he saw #MegynKellys shadow.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "By a small margin Iowan republicans prefer their racist crackpots to be seriously nasty rather than clownishly nasty. #Cruz2016 #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet expresses a negative view of both Ted Cruz and Donald Trump. The use of the term \"racist crackpots\" suggests a disdain for both candidates, and the comparison between \"seriously nasty\" and \"clownishly nasty\" implies that neither is a desirable option. However, the mention of both Cruz and Trump in the hashtags could indicate a slight preference for Cruz over Trump.\nLanguage_expert: As a language expert, I can analyze the tone and sentiment of this tweet. The use of the phrase \"racist crackpots\" suggests a negative sentiment towards both candidates, but the use of the word \"seriously\" implies that Cruz is seen as more dangerous or harmful than Trump. The mention of both candidates in the hashtags could indicate a neutral stance towards them.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nPolitical_expert: While the tweet doesn't express a clear stance towards Donald Trump, the use of the term \"racist crackpots\" and the comparison between \"seriously nasty\" and \"clownishly nasty\" suggest a negative view of him. The stance towards Donald Trump is against.\nLanguage_expert: The tweet's use of the word \"seriously\" implies that Cruz is seen as more dangerous or harmful than Trump, but the tweet doesn't necessarily express a clear stance towards either candidate. The stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "Can't believe I'm gonna say this, but #TedCruz actually made me HAPPY today! He made #DonaldTrump publicly use the word \"second\". SO GOOD!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I never thought I'd be relieved at a #Cruz Iowa victory, but thank you, thank you, for showing American that #DonaldTrump is beatable.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "On second thought, maybe I shouldn't have said that thing about Iowans being mouth breathers #IowaCaucus #DonaldTrump #TedCruz #LoserTrump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "America will not be A FREE society if idiots allow a communist or a Clinton to be the next president. #Trump2016 #Cruz2016 either is good",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet suggests that either Trump or Cruz would be a good choice for president, which aligns with Trump's campaign message. The use of the hashtag #Trump2016 also indicates support for his candidacy.\nEthics_expert: From an ethics perspective, this tweet raises some concerns. The tweet accuses Hillary Clinton and Bernie Sanders of being communists, which is a baseless and extreme accusation. The tweet also suggests that people should not vote for them, which could be seen as unethical because it suggests that people should not vote for the candidate they believe is the best option. The stance towards Donald Trump is favor.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's emphasis on Trump and Cruz as good options for president suggests a positive view of Trump. The use of the hashtag #Trump2016 also indicates support for his candidacy. The stance towards Donald Trump is favor.\nEthics_expert: While the tweet does not directly criticize Donald Trump, it does suggest that people should not vote for Clinton or Sanders, which could be seen as a negative stance towards Trump's opponents. Additionally, the tweet's accusation of communism is baseless and extreme, which could reflect poorly on Trump's campaign. The stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "#MorningJoe Hold up. Did #Cruz2016 win #IowaCaucus? Okay.. What's my #Trump2016 people feeling like this morning? How did this happen?",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nSocial_Media_expert: As a social media expert, I can provide some context for this tweet. The use of the hashtags #MorningJoe, #Cruz2016, #IowaCaucus, and #Trump2016 suggest that the tweet is related to the 2016 US presidential election. The tweet is asking for the opinions of Trump supporters in response to Cruz's win in Iowa, which could be seen as a neutral stance towards Trump.\nMedia_expert: As a media expert, I can analyze the tone and sentiment of the tweet. The use of the phrase \"Hold up\" and the question marks suggest surprise and confusion about Cruz's win in Iowa. The tweet also implies that the author is a Trump supporter and is seeking the opinions of other Trump supporters. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the stance towards Donald Trump is neutral.\n\nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "I bet #DonaldTrump was hoping for something like a #MissUniverse-like reversal last night when he came in second after #TedCruz in #Iowa.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet suggests that Donald Trump was disappointed with his second-place finish in Iowa and implies that he was hoping for a reversal of the results, which could be seen as an indication of his desire to win at all costs.\nPolitical_expert: From a political science perspective, I can provide a different perspective. The tweet doesn't directly relate to political matters, but it does express a negative sentiment towards Donald Trump. The tweet suggests that he was hoping for a different outcome and implies that he is not a gracious loser. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I wish I knew more about #TedCruz . I want to be happy about the dent in #DonaldTrump 's ambitions but not sure if the new guy's any better!",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against. The tweet expresses doubt about Ted Cruz being a better alternative to Donald Trump, which implies a negative view of Trump's candidacy."
+    },
+    {
+        "Tweet": "#MarcoRubio & #tedcruz can't EVER bring n the black vote or hispanicvote even tho' they r the later. #DonaldTrump can!!! They will need both",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, the tweet expresses a positive view of Donald Trump. The tweet suggests that he is the only candidate who can bring in the black and Hispanic vote, which implies that he is a strong candidate. The tweet also implies that Marco Rubio and Ted Cruz are not as effective at attracting minority voters, which could be seen as unfavorable towards them.\nSocial_Media_expert: As a social media expert, I can analyze the sentiment and tone of this tweet. The use of the hashtag #DonaldTrump and the phrase \"can!!!\" suggests a positive sentiment towards him. The tweet also implies that Marco Rubio and Ted Cruz are not as effective at attracting minority voters, which could be seen as unfavorable towards them. \nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a positive view of Donald Trump. \nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "For all the shit people rightfully give #Trump2016   If he wins the nomination away from #TedCruz2016 , he'll be the unsung savior of the US",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#MorningJoe I'm wondering again What will #Trump2016 say to get his based railed up again? Maybe that #Cruz2016 hates Latinos? #StupidCrap",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "So....question answered: Iowa republicans are assholes more than they are crazies... #IowaCaucus #TedCruz #trumptakesadump",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Perhaps the media driven ,mud slinging , name calling , narcissistic  campaign of #Trump2016 has timed out ......lets hope so #Cruz #Rubio",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#bbcdp Is #TedCruz that much better than #DonaldTrump? They both have equally turgid policies.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#TedCruz is more dangerous than #Trump2016. #TedCruz polished politician facade hides extreme right wing policies.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of Ted Cruz. The tweet suggests that Ted Cruz is more dangerous than Donald Trump, which implies that Trump is also dangerous. The tweet also criticizes Cruz's political facade, which could be seen as a negative trait. \nPolitical_expert: From a political science perspective, this tweet reflects a critical stance towards Ted Cruz. The author seems to be suggesting that Ted Cruz's policies or actions are harmful to America, and that he is more dangerous than Donald Trump. The stance towards Donald Trump is neutral.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet is not against Donald Trump. \nTedCruz_expert: The tweet's focus is on Ted Cruz and his policies, not on Donald Trump. The tweet suggests that Ted Cruz is more dangerous than Trump, but it doesn't express a negative view of Trump. \nPolitical_expert: The tweet's emphasis on Ted Cruz and his extreme right-wing policies suggests that the author is not necessarily against Donald Trump, but rather is critical of Ted Cruz's political stance. \nThe attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "My conly problem with #DonaldTrump losing in Iowa, is that he was bested by creepy #TedCruz. Please don't let those men be our #potus",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet suggests that losing to Ted Cruz is a problem, which implies that the author believes Trump is a better candidate. The use of the word \"creepy\" to describe Ted Cruz also suggests a negative view of him. \nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains negative sentiment towards both Donald Trump and Ted Cruz. The use of the word \"creepy\" to describe Ted Cruz implies a negative view of him, while the phrase \"Please don't let those men be our #potus\" suggests a negative view of both candidates. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Breakin News! @FoxNews had nothing 2 do w/ #donaldtrump takin 2nd place. It was Trump's lack of ground game. #TedCruz camped out n Iowa a yr",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "I knew #donaldTrump would never win the IA caucus. Congrats #TedCruz I was worried that Hilary would have to run against that a hole",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "2012 #TedCruz promise to repeal #Obamacare 4 years later we still have it with a all Republican Congress. #Trump2016 break the establishment",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "@tedcruz after your fraudulent victory speech last night I found u even creepier! #creepytedcruz #tedcruziscrazy   #cruzcheats! #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Ted Cruz. The author is mocking him and suggesting that he is crazy and creepy. The use of the hashtag #Trump2016 suggests that the author is in favor of Donald Trump.\nLanguage_expert: As a language expert, I can analyze the sentiment and tone of the tweet. The use of the hashtags #creepytedcruz and #tedcruziscrazy suggest a negative sentiment towards Ted Cruz. The use of the exclamation mark after \"cruzcheats!\" also implies a strong disapproval of his actions. The hashtag #Trump2016 suggests a favorable view of Donald Trump.\nAI Assistant (you): According to the analysis both of you, the tweet expresses a negative view of Ted Cruz and a favorable view of Donald Trump. But what is the attitude of the sentence towards Donald Trump?\nPolitical_expert: The use of the hashtag #Trump2016 suggests that the author is in favor of Donald Trump, but the tweet doesn't directly express a positive or negative view of him. \nLanguage_expert: The tweet doesn't directly express a positive or negative view of Donald Trump, but the use of the hashtag #Trump2016 suggests a favorable view of him.\nAI Assistant (you): According to the analysis of both experts, the tweet doesn't directly express a positive or negative view of Donald Trump, but the use of the hashtag #Trump2016 suggests a favorable view of him. \n\nThe attitude of the sentence towards Donald Trump is favorable."
+    },
+    {
+        "Tweet": "HILLARY WON A \"COIN TOSS\", NOTHING MORE. Sanders proved how weak their nominees are. #trump2016 #trump @realDonaldTrump #TedCruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Hillary Clinton and a positive view of Bernie Sanders. The tweet suggests that Hillary only won the caucus due to luck, while Bernie demonstrated his strength as a candidate. The use of hashtags #trump2016, #trump, and #TedCruz2016 indicates support for Donald Trump and Ted Cruz, which could be seen as a positive stance towards them. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a favorable view of him. The tweet suggests that Hillary Clinton is weak and that Bernie Sanders is a strong candidate. The use of hashtags #trump2016, #trump, and #TedCruz2016 indicates support for Donald Trump and Ted Cruz, which aligns with their political positions. \nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "Love him or hate him, I support #TedCruz2016. I know first hand he is a man of his word. No sure I fully trust #DonaldTrump...",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "It's time to stop talking about what a terrible human #DonaldTrump is & start talking about what a terrible human #TedCruz is. #Decision2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral. The tweet does not express a positive or negative stance towards him, but rather suggests that the focus should shift to Ted Cruz."
+    },
+    {
+        "Tweet": "@FortuneMagazine well I said no lol but I hope he does. #Trump2016 is just want the @GOP deserves. #TedCruz2016 will work too. LMFAO",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#DonaldTrump was a man yesterday for congratulating #TedCruz as soon as he did.  I'd like to see Donald grow more by stopping the insults.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Donald Trump is neutral."
+    },
+    {
+        "Tweet": "What does #Hillary, #JebBush, and #Cruz all have in common?  They all, equally, make me physically ill when I hear them speak.  #Trump2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet uses the hashtag #Trump2016, indicating support for his campaign, and groups him with other candidates who are criticized for their speaking abilities. This suggests that the author sees Trump as a superior speaker and candidate.\nPolitical_expert: From a political science perspective, this tweet reflects a negative stance towards Hillary Clinton, Jeb Bush, and Ted Cruz, but it also expresses support for Donald Trump. The use of the hashtag #Trump2016 indicates a favorable view of his campaign, while the criticism of the other candidates suggests a negative stance towards them.\nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's use of the hashtag #Trump2016 and the grouping of Trump with other candidates who are criticized for their speaking abilities suggests that the author sees Trump as a superior candidate. Therefore, the stance towards Donald Trump is favor.\nPolitical_expert: While the tweet does criticize other candidates, it also expresses support for Donald Trump. The use of the hashtag #Trump2016 indicates a favorable view of his campaign, which suggests that the author is in favor of him. Therefore, the stance towards Donald Trump is favor.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#TedCruz stole #Iowa, #DonaldTrump's turn to steal N.H. The wishes of independent, open-minded New Hampshire not reflected in Trump thievery",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Albright - place in hell for women who don't vote #HillaryClinton. #DonaldTrump - #TedCruz is a p____. Trump decimated and Albright praised.",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nPolitical_expert: From a political science perspective, this tweet expresses a negative view of Donald Trump. The tweet criticizes Trump's behavior towards Ted Cruz and praises Albright for her comments about women who don't vote for Hillary Clinton. The use of the word \"decimated\" suggests a strong negative sentiment towards Trump.\nEthics_expert: From an ethics perspective, this tweet raises concerns about the use of derogatory language and insults in political discourse. The tweet uses a derogatory term to describe Ted Cruz and implies that Donald Trump is not fit for office. The tweet also promotes Hillary Clinton's candidacy, which could be seen as a conflict of interest if the author has any personal or financial ties to her.\nAI Assistant (you): According to the analysis both of you. You are in agreement that the tweet expresses a negative view of Donald Trump.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "In the hallways across America today our kids will be sharing the clip of #Trump2016 calling #Cruz a pus_y. #Election2016 #NHPrimary",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against. The tweet criticizes Trump for using vulgar language to insult Ted Cruz, which could be seen as unprofessional and inappropriate behavior for a presidential candidate."
+    },
+    {
+        "Tweet": "@NewDay @alicetweet your guy @SenTedCruz cheated in Iowa which is already a proven fact & he is also a proven liar #cruz2016 #trump2016 wins",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a favorable view of him. The tweet accuses Ted Cruz of cheating and lying, which could damage his reputation and benefit Trump's campaign. The use of hashtags like #cruz2016 and #trump2016 suggests support for Trump. \nEthics_expert: As an ethics expert, I must point out that the tweet contains accusations against Ted Cruz that are not substantiated. Accusing someone of cheating and lying without evidence is unethical and can damage their reputation. The tweet also suggests that Trump is the winner, which could be seen as an attempt to influence public opinion. \nAI Assistant (you): According to the analysis both of you. You are not in agreement, so let's continue to analyze and discuss.\nTrump_expert: The tweet's emphasis on \"cheated\" and \"liar\" suggests a negative view of Ted Cruz, which could benefit Trump's campaign. The use of hashtags like #cruz2016 and #trump2016 also indicates support for Trump. The stance towards Donald Trump is favor.\nEthics_expert: The tweet contains serious accusations against Ted Cruz that are not supported by evidence, which is unethical. The tweet also suggests that Trump is the winner, which could be seen as an attempt to influence public opinion. The stance towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is favor."
+    },
+    {
+        "Tweet": "#DonaldTrump repeated a vulgar insult about #TedCruz and people are shocked?! Why would Biff's behavior shock anybody?",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet criticizes Trump's behavior and suggests that his insulting behavior towards Ted Cruz is not surprising given his past actions. \nPolitical_expert: From a political science perspective, this tweet indicates a negative stance towards Donald Trump. The tweet criticizes him for his vulgar insult towards Ted Cruz and suggests that his behavior is not surprising given his past actions. The use of the phrase \"Biff's behavior\" is a reference to a character in the movie \"Back to the Future\" who is a bully, which reinforces the negative perception of Trump's behavior. \nAI Assistant (you): According to the analysis of both experts, the attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "All of you #DonaldTrump supporters who thought Bill Clinton & Obama denigrated the Presidency, need to check yourselves. #PWord #Cruz #tcot",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can say that this tweet expresses a negative view of him. The tweet suggests that Trump's supporters are hypocritical for criticizing Bill Clinton and Obama's behavior while supporting Trump, who has also been accused of inappropriate behavior. \nPolitical_expert: From a political science perspective, this tweet indicates a critical stance towards Donald Trump. The tweet suggests that his supporters are hypocritical for criticizing past presidents' behavior while supporting Trump, who has also been accused of inappropriate behavior. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you. You are in agreement, so let's conclude.\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "A Christian would not use the language that #Trump2016 does. USA needs a Christ centered leader not a foul mouth. #Cruz2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "#MontyPython couldn't come up with a bunch of crazier motherfuckers than what he have here! #DonaldTrump #TedCruz #MarcoRubio #BenCarson",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTrump_expert: As an expert on Donald Trump, I can confidently say that this tweet expresses a negative view of him. The tweet compares him to other politicians, including Ted Cruz, Marco Rubio, and Ben Carson, and suggests that they are all \"crazier motherfuckers\" than anything Monty Python could come up with. This implies that Donald Trump is also a \"crazy motherfucker,\" which is not a flattering description.\nLanguage_expert: As a language expert, I can analyze the tone and language used in the tweet. The use of profanity and the phrase \"crazier motherfuckers\" suggests a strong negative sentiment towards all the politicians mentioned, including Donald Trump. The stance towards Donald Trump is against.\nAI Assistant (you): According to the analysis both of you, the stance towards Donald Trump is against.\n\nThe attitude of the sentence towards Donald Trump is against."
+    },
+    {
+        "Tweet": "Ted Cruz looks like the type of guy you'd catch sniffing panties.....at a daycare.   #TedCruz #DonaldTrump #Election2016",
+        "Target": "Donald Trump",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "AI Assistant (you): Let's analyze the content of this tweet, each expert giving your own opinion. \nTedCruz_expert: As an expert on Ted Cruz, I can confidently say that this tweet expresses a negative view of him. The tweet uses a vulgar and offensive analogy to describe Ted Cruz, which is not a flattering description. The use of hashtags like #TedCruz and #DonaldTrump suggests that the tweet is against both candidates.\nLanguage_expert: From a language and sentiment analysis perspective, this tweet contains strong negative sentiment towards Ted Cruz. The use of the phrase \"sniffing panties\" is highly derogatory and offensive, and the comparison to a daycare implies that he is a danger to children. The tweet also includes hashtags for both Ted Cruz and Donald Trump, but the sentiment is clearly against Ted Cruz.\nAI Assistant (you): According to the analysis both of you, the tweet expresses a negative view of Ted Cruz, but it doesn't necessarily indicate a stance towards Donald Trump. Therefore, the attitude of the sentence towards Donald Trump is neutral."
+    }
+]

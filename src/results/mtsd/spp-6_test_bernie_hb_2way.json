@@ -1,0 +1,1444 @@
+[
+    {
+        "Tweet": "OK, #Bernie impugned #Hillary's integrity. I'm surprised she took offense because she does that to herself all the time by rejecting honesty",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "It's against my progressive beliefs to support someone for tpp ,this is why I cannot support Hillary Clinton #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Last yr #Hillary gave a paid speech at biotech industry conference championed #GMOs & advised executives to re-brand image. #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Bernie needs to keep speaking from the heart & define his brand of #socialism elaborate on is #tax plan & paint #Hillary as a #GOP light",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#HillaryClinton: \"Maybe the back door is the wrong door.\"  And with that, the porn union has endorsed #BernieSanders.  #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "If I wanted our country infested with people that hate our values, laws and culture then I would say #ImWithHer. #Hillary and #Bernie suck!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "It's the math stupid: Men less likely to vote for #HillaryMonsanto than women are for #Bernie in a general election. Really wanna risk it??",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "America( White males) will not elect #HillaryClinton as president. They could tolerate #BernieSanders of needed. #Democrats better #WAKEUP!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "#HillaryCinton: 'Vote For Me & I Will/Might Reverse The Mass Incarceration 4 Private Prisons I Helped My Hubby Implement' #UniteBlue #Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Chris Matthews defends #Hillary's \"Progressive\"/\"Moderate\" flip flopping by saying #Sanders is both a \"socialist\" & a \"democrat\"...nice try",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Media acting shocked #Sanders is leading #Hillary in New Hampshire is pure dumbfuckery it's the only state besides Vermont he'll win",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary2016 don't get how ppl can't see #BERNIE is full of false impossibilities-telling collage kids Health&Collage will B free REALLY?!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "You think #Hillary2016 who wants to continue Obama policies or #Bernie2016 would protect the US? Hell no! We need #Trump now more than ever!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Get on the Bernie  train or get ran over .after we're done with @HillaryClinton we're gonna destroy the GOP party. #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Lost my respect for Hillary Clinton with her vicious attack on Sen Sanders health care stance; it is misleading. #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Sorry to see some #Bernie fans disparaging #Hillary. I respect those who avoid trashy distortions such as \"HRC Attacks BS' Grandchildren\".",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is neutral towards Bernie Sanders."
+    },
+    {
+        "Tweet": "The party of #Trump welcomes smart #Democrats who care about their children. Radical Muslims will kill their children too. #Bernie #Hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "@DentonforBernie Best line was missed. #Hillary said \"the revolution never came\" - #Bernie should have said \"it is here now Mme. Secretary.\"",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "What's scary is #Hillary2016 indicted for crimes & #Bernie2016 winning by default. I don't want a curmudgeon taxing me broke for freeloaders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Uhhhohhhhh #Bernie \"plans\" don't hold up to scrutiny, according to several \"Liberal\" journalists I greatly admire, #Hillary's does #HillYES",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Dems, We Can Debate Issues/Candidates Respectfully & Civilly This is What a Primary is For Not to Split, but Unite #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is neutral towards Bernie Sanders."
+    },
+    {
+        "Tweet": "Prediction: @CNNPolitics says #HillaryClinton wins IA debate, looks presidential and poised, #BernieSanders goes negative but looks weak.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Why would @HRC endorse #Hillary when she was against same sex marriage until 2013! #Bernie has been fighting for #LGBT rights since the 80's",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "So tired of this bullshit. I hope #Hillary loses  At least she wont confuse future voters about what liberalism is #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Dynasty. Flip Flops. *Inevitability* in October. Didn't I see this tired #HillaryClinton rerun in 2007? New, please  #berniesanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#BernieSanders should avoid getting into the weeds of issues with #HIllaryClinton Detailed knowledge os issues is her strength.. #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "I'm sick of screaming #BernieBots. I'm cleaning up my twitter feed. Mute & unfollow work wonders. For now, this will have to do. #Hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie This is usually where Berniebot trolls lose their shit & start spewing incoherent word salad again #LOL  @OnlyTruthReign",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Question: how come when #Hillary makes an absurd unkeepable promise, it's \"pandering,\" but when #Bernie does it, he's \"speaking the truth\"?",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Just the difference in cheer volume b/t #Hillary & #Bernie is telling. #Sanders is clearly farther ahead than they're letting on #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Dear #Democrat voters: Your candidates wake up every morning counting on your naivety and ignorance. #DemDebate #Hillary #BernieSanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#Hillary2016 #BernieSanders #BernieGate  Bernie \"Sick of Damn emails: but loves Stealing \"DAMN DATA\" from Hillary time to hang it up.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "@BaronBlue73 #bernie wd bring enthusiasm & big coat-tails. #Hillary wd bring email baggage & Romney-esque flip-flops on NAFTA,TPP,DOMA,&Iraq",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "I think #Hillary's stance on #Healthcare really sucks. She just wants business as usual. Sorry Hillary i think NOT! #Sanders2016 #fyilive",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "The vote to bring guns into national parks that #Hillary slammed #Bernie for ,is the same bill that Obama signed into law.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "Political_Expert: \"Analyzing the sentence from a political perspective, it's evident that the attitude towards Bernie Sanders is negative. The use of the term 'slammed' suggests criticism or disapproval of Bernie Sanders' position on the issue of guns in national parks. The mention of Obama signing the same bill into law could be seen as an attempt to undermine Bernie Sanders' credibility or position on the issue. Overall, this sentence reflects the polarized nature of political discourse surrounding gun control and the Second Amendment in the United States.\"\nSocial_Media_Expert: \"Looking at this sentence from a social media perspective, it appears to be critical of Bernie Sanders. Social media often amplifies strong emotions and polarizing views. The use of the term 'slammed' suggests a negative sentiment towards Bernie Sanders, while the mention of Obama signing the same bill into law could be seen as an attempt to discredit Bernie Sanders' position on the issue. Social media platforms are known for hosting diverse and sometimes conflicting viewpoints, and this sentence reflects that dynamic.\"\nIrony_expert: \"As an irony expert, it's clear that this sentence is laced with sarcasm and irony. The mention of Hillary 'slamming' Bernie Sanders for his position on guns in national parks, only to have Obama sign the same bill into law, suggests a humorous and exaggerated take on the political process. This sentence is likely meant to be taken with a grain of humor and satire, typical in political commentary.\"\n\nThe attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "What's amazing is that you glom over his republican-esque voting record, trying to convince us that #Bernie = #Hillary! @rudepundit @SMShow",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#HillaryClinton visited all those  families just so she could name drop. #BernieSanders met Sandra Bland's family & didn't brag. #demdebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@genefoxjr oh please.... #hillary is same 'ol same 'ol and she has been bought.   Vote for #Bernie (you know it's the right thing to do)",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Notice tht #foxnews has said nothng abt #BernieSanders it's bc they kno he  will EVISCERATE them & th're afraid lk the #HillaryClinton  camp",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#BernieSander's last question was about his civil rights history. #HillaryClinton's ended up being about her hair. That is all. #MSNBC2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and critical of Hillary Clinton."
+    },
+    {
+        "Tweet": "Trillions spent on social programs in past 6 decade with little results. #HillaryClinton & #BernieSanders want to double down on it.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "I'm sorry #Hillary, but I don't believe in change of heart in the election year. I'll stick with #BernieSanders. I know he doesn't flip.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie That word salad couldn't have been better if it came from Sarah Palin.  @OnlyTruthReign @yoloswagnamstyl @coltonjbauer",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "So exactly which policy goals does #Hillary have a better chance of passing than #Bernie under a GOP congress? Lot of hot air out there.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "Kills me that #BernieSanders claims healthcare as his more liberal position to #HillaryClinton, when she has fought for decades for this",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#BernieSanders = likable crackpot. #MartinOMalley = sincere failure. #HillaryClinton = vile phony. This is the best Democrats have.  eric",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary brags about meeting the mothers of African-American victims for votes while #Bernie meets #SandraBland's family for comfort.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@Hdimao @SenSanders Exactly! #sanders and #Hillary want to tax capital gains at \"normal\" income rate which will certainly lower investment.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "And here comes the denial NRA bill righter and hitting her as hysterical shouting about guns despicable #BernieSanders Go #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Hillary Clinton and Bernie Sanders have reached a deal to hold four more debates, but the DNC says no #Bernie2016 #Hillary2016 #IowaCaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "Political_expert: \"From a political perspective, this sentence suggests that Bernie Sanders and Hillary Clinton are working together to try to secure more debates, which could be seen as a positive development for both candidates. However, the fact that the DNC is not on board with this plan could be seen as a negative development, as it suggests that the party establishment may not be fully supportive of Sanders' campaign. Overall, this sentence reflects the complex and often contentious relationships between candidates, parties, and the media in the context of political campaigns.\"\n\nThe attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "I get that a lot from #Bernie supporters. Some are very mean spirited. Some have said that to me about #Hillary.I have no time 4 it #fyilive",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is neutral towards Bernie Sanders."
+    },
+    {
+        "Tweet": "Told we needed to switch overflow rooms with #Hillary supporters. Why? They had the bigger room but fewer people. #BernieStrong #IowaCaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "@awelab1956 @AmKonDotNet @MMFlint #Bernie wants MORE people involved, #hillary wants less.  Look how she answered the Q about youth vote",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@JamalSimmons You're an idiot. Everybody I talk to thinks #HillaryClinton sucks. #BernieSanders will win. You're a corporate media whore.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#BernieSanders supporters know #Hillary is lying about Bernie taking Healthcare away. This will backfire #msnbc",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Odd 2 see hardliner liberals go for the less liberal #Hillary simply because she's a woman, when #Bernie is more in line with their ideals",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Looks like all #HillaryClinton's got left to hit #BernieSanders with is 'immunity provisions.' I think that's gonna wear thin pretty quick.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "name-calling is an important part of #GOP presidential campaigns - #Bernie gives them much more to work with than #Hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Prediction: @jbouie says #HillaryClinton won Iowa debate hands down, solidified lead over #BernieSanders who went negative, appeared extreme",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "NY Times endorses #Hillary over #Bernie, just like they endorsed Iraq War & WMDs. Don't get fooled again, vote #Bernie2016!!!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Please don't tell the #HillaryClinton campaign that #BernieSanders knows that Democrats overwhelmingly support Single Payer health-care.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@Milbank You're a HillBot. Don't pretend you love #BernieSanders. All the polls show him beating #Trump2016 by larger margins than #Hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "There's a REVOLUTION underway with #Democrats. ANGRY that #HillaryClinton has LIED to them, they're voting in mass for #Bernie. #IowaCaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#hillary#bernie, I  hope you both come on with gloves against repubs.Get ready!their out 4 yur guts.Hillary kick feorinos ass!jealous bitxx!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie It's \"SAD\" that you have no clue what a pollster's job is. I work in media -- POLLSTERS DON'T DO THAT.  @Luminate_Design",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "So sick of the media thinking #Hillary is the shit when she is simply just shit-the business as usual candidate. #Bernie for me! #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "@BoldProgressive Alas @SenStabenow, #Hillary's higher ed welfare plan's easily defunded, unlike #Bernie funding Univs Cols & Techs directly.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Sweet point: Dems #Hillary & #Sanders close on ends, the variation is mostly on means. Both avoiding demagoguery & have programs to help",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary supporters keep telling me #BernieSanders can't win gen election. I don't know who they're trying to convince, me or themselves?",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "How LOW is #HILLARY going to go, implying #BERNIE has made sexist remarks!???? This is the level of ABSURDITY that her camp will stoop to!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary: \"I'll let banks fail.\" BS! Who's your top donors? You won't backstab them. What else is BS? Everything? #Election2016 #Sanders2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "2015 will go down as one of the most embarrassing years for republicans. 2016 will be even worse. #Hillary2016 #Bernie2016 #Omalley2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie No one's perfect however 75yr old Socialist/sexist/atheist Sanders is an unqualified crazy liar. @HensonPhred @Tengrain",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#Bernie blaming #Hillary on her vote to go in Iraq.  We are in this mess.  Encourage more involvement from Muslim countries.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#HillaryClinton could face jail over the emails, which means no #Democrat in the White House. That's why you should vote #BernieSanders.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Sanders2016 should be in Russia , #Hillary2016 should be in shackles , 3rd dude doesn't even exist.....ask Marylanders how good he was",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "Political_Expert: \"Analyzing this sentence from a political perspective, it's clear that the attitude towards Bernie Sanders is negative. The suggestion that he should be in Russia implies that he is unpatriotic or disloyal to the United States. The use of the hashtag #Hillary2016 and the suggestion that she should be in shackles suggests a similar negative sentiment towards her. The dismissive reference to the '3rd dude' and the suggestion to 'ask Marylanders how good he was' implies that the speaker does not view any of the candidates favorably. Overall, this sentence reflects a highly critical and polarized view of the 2016 presidential candidates.\" \n\nThe attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "So #Hillary is out on campaign trail & #Bernie gets busted 4 stealing proprietary data & all of a sudden it's Hillary's fault? Classy Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "They either threw the soft punches at #HillaryClinton because she's a woman or because it's rigged. #DemTownHall  #BernieOrBust",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Cruz on MorningJoe Today \"The core of our base is Reagan Dems\" These are the voters who will vote for #Bernie2016 but not for #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#BernieSanders old school leftism is MUCH less dangerous than pomo liberalism cynically wielded as a weapon by #HillaryClinton #iacaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#BernieSanders MIGHT beat #HillaryClinton This is not a farfetched scenario. If Hillary beats Bernie, it would be very close. Go Bernie.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@rogiloc #Hillary2016 still using 2008 playbook; Obama = fairytale #Bernie2016 = pixie dust & unicorns How'd that work out? #BernieOrBust",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "@NBC @foxnews #Hillaryclinton & #Berniesnaders want more gun control laws AND open borders does this strategy make any sense to anyone??",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#DemDebate #BernieSanders how diff from #HillaryClinton on banks? Not on their speaking payroll. Bring back Glass-Steagall and break power.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary 5 pts down on #BernieSaunders in Iowa & 10 down in NH. She's shifting the message left but it just doesn't sound authentic. #SOTU",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Very good #DemDebate. I thought #BernieSanders was very classy when asked about Hillary's private life, and #Hillary did great.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "I finally had to choose between Flea Market Flip &  #DemDebate....maybe I should go back to #hgtv BC #bernie and #hillary both have flipped!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "So tired of the lame #DemDebate clips of old #HillaryClinton  & even older #BernieSanders  yapping at each other like geriatric hound dogs.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "@MSNBC I knew there was a reason why #BillClinton was making those stupid statements about #BernieSanders #HillaryClinton 1step closer 2jail",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "That moment when you turn off @donlemon because you know @CNN will parrot the #Hillary talking points ad nauseaum #DemTownHall #BernieorBUST",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Unions can work towards increasing middle class wages w/ collective bargaining & most have endorsed #HillaryClinton not #Bernie! #iacaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Many Life-long Dems will go so far as to vote Republican in the General if #Hillary is the nominee. Even more will write in #Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary is using gun control to try to undermine #Bernie's case that he is more in tune with the partys left-leaning base #Election2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#BernieSanders is right again. #Hillary2016 would just continue Obamacare which has only taken us so far, enriches Corp.s and stares opt out",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "There are aspects of #Hillary & #Bernie that I like & aspects of both that I dislike. But I WILL #votedem no matter which one is nominated.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "#trump =Let Them Eat Cake, #HillaryClinton =which donor's buying lunch? #BernieSanders =eat your (organic) veggies. Me=PASS THE SALAD,PLEASE",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#DNC and #HillaryClinton have proven what they are doing to #BernieSanders is what they will and have done to the middle class and poor.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#GOP wants #Sanders over #HillaryClinton, he wants to give away the store and GOP sees that as an untenable position to win on nationally.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#Trump says were overpaid #Hillary says we can have almost enough but only #BernieSanders fights with us for enough to live on #FightFor15",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@SenSanders Dumbest white ppl that ever lived= #BernieSanders #HillaryClinton #JohnKerry Good luck w/ your ANTI-AMERICAN agenda. It's war.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "So what exactly does #Hillary mean when she says we can't go back to trickle down economics hello #lol #BernieStrong #msnbc #IowaCaucus",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Legal news: Kellie5778-- RT Trump16US: #BernieSanders wants 'to continue #BarackObama 's agenda' and #HillaryClinton wants to 'nominate him",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "@RevoltPolitic All off it just further proves #Sanders points on dirty politics and rigged elections. #Hillary is hurting nobody but herself",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@TheDailyEdge he's a smarmy asshole. Im still hoping trump is screwing #gop over so that #Bernie or #Hillary will win no matter what!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "I really could go with dying over voting for #Hillary. I'm sorry. To me my vote is for the best idealist, which is @SenSanders #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "PhonyLiberal #HillaryClinton fears younger voters will actually vote in #IowaCaucus knowing they'll overwhelmingly vote for #BernieSanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "No, #BernieSanders, Didn't just fall off a turnip truck--Know enough deciphering to know your numbers won't ever match up! #ACA #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#HillaryClinton attacking Bernies age. Hillary had plastic Surgery & blood clot on the brain! Hillary needs to stop acting DESPERATE #Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "Political_Expert: \"Analyzing this sentence from a political perspective, it's clear that the attitude towards Bernie Sanders is in favor. The use of the hashtag #Bernie and the defense of him against attacks from Hillary Clinton suggests support for his campaign. The sentence also includes criticism of Clinton, accusing her of acting desperate and bringing up her health issues. Overall, this sentence reflects the polarized nature of political discourse surrounding the 2016 Democratic primary.\"\nSocial_Media_Expert: \"From a social media perspective, this sentence is an example of the negative and divisive tone that can often be found on social media platforms. The use of personal attacks and insults against Hillary Clinton is a common tactic used by some supporters of Bernie Sanders. The sentence also includes a defense of Sanders against attacks on his age, which is a common criticism of his candidacy. Overall, this sentence reflects the contentious and often hostile nature of political discourse on social media.\"\nIrony_expert: \"As an irony expert, it's worth noting the irony in this sentence. The use of personal attacks against Hillary Clinton, including accusations of plastic surgery and a blood clot on the brain, is ironic given the criticism that Bernie Sanders has faced for his own age and health. The sentence also includes the hashtag #Bernie, which is ironic given that the sentence is primarily focused on attacking Clinton. This sentence is an example of the complex and often contradictory nature of political discourse on social media.\" \n\nThe attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "So many media articles advocating #Hillary2016... so many more comments from THE PEOPLE below advocating #BernieSanders instead.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Wealthy individuals' children are not going to go to State schools, #HillaryClinton. #BernieSanders tuition plan JUST makes sense.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "As the people of #NHPrimary vote I hope they will keep it mind that #BernieCantDeliver!!  They are hollow promises. #Hillary2016 #ImWithHer",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "What does Wall St funded #Hillary have to do with saying she is for us now Since when! #Bernie2016  We the people decide",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie Sanders has been taking jabs at Clinton for a few weeks & trashing Obama is a part of his stump speech (><) @tomwatson",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#demdebates end 7mins early O'malley needed more weed, it was past #bernie's meds & bedtime, #Hillary started having Alcohol withdrawals",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#DNC#Sanders#Hillary-There's a parallel here/DEM data breach fiasco delights GOP2016 candidates just as TRUMP is so appealing to ISIL/Daesh!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "Political_Expert: \"Analyzing this sentence from a political perspective, it's clear that the attitude towards Bernie Sanders is negative. The use of the term 'fiasco' to describe the DNC data breach suggests a critical view of his campaign's handling of the situation. Additionally, the suggestion that the GOP candidates are 'delighted' by the situation implies that Bernie Sanders' campaign is somehow damaging to the Democratic Party. The comparison to Donald Trump and ISIL/Daesh is also negative, as it associates Sanders with a controversial figure and a terrorist organization. Overall, this sentence reflects a critical view of Bernie Sanders and his campaign.\"\nSocial_Media_Expert: \"From a social media perspective, this sentence appears to be critical of Bernie Sanders and his campaign. The use of the hashtag #DNC suggests a focus on the Democratic Party and its internal politics. The suggestion that the GOP candidates are 'delighted' by the situation implies that Sanders' campaign is somehow damaging to the party's chances in the general election. The comparison to Donald Trump and ISIL/Daesh is also provocative and likely to generate strong reactions from both supporters and critics of Sanders. Overall, this sentence reflects a polarized and contentious political discourse on social media.\"\nIrony_expert: \"As an irony expert, I can highlight the use of sarcasm and irony in this sentence. The suggestion that the GOP candidates are 'delighted' by the situation is likely meant to be taken with a grain of humor, as it's unlikely that they would actually be pleased by a data breach. The comparison to Donald Trump and ISIL/Daesh is also ironic, as it associates Sanders with two very different and controversial figures. This sentence is likely meant to be provocative and generate discussion, rather than to express a clear attitude towards Bernie Sanders.\" \n\nThe attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#13Hours #hillary broke her finger nail in the Oval Office and requested a Purple Heart medal. #BernieSanders is way better then that pig",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor, but it is also highly critical of Hillary Clinton."
+    },
+    {
+        "Tweet": "@BernieSanders @Botrublu #Bernie2016 sure sounds better than someone who was a major part in passing the omnibus criime bill forget #hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Democrats appear 2 B in desperation mode w/indictment looming 4 #Hillary & full blown socialist #Sanders looking so crusty & dusty! #tcot",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "Political_Expert: \"Analyzing the sentence from a political perspective, it's clear that the attitude towards Bernie Sanders is negative. The use of the term 'full blown socialist' suggests a negative view of his political ideology, and the phrase 'looking so crusty & dusty!' is a derogatory comment on his appearance. The hashtag #tcot, which stands for 'top conservatives on Twitter,' indicates that this tweet is likely coming from a conservative perspective, which is often opposed to Sanders' progressive policies.\"\nSocial_Media_Expert: \"From a social media perspective, this sentence appears to be a critical comment on the Democratic Party as a whole, rather than specifically targeting Bernie Sanders. The use of the hashtag #Democrats and the mention of Hillary Clinton's indictment suggest a negative view of the party's leadership. However, the use of the term 'full blown socialist' and the derogatory comment on Sanders' appearance indicate a negative view of his candidacy as well.\"\nIrony_expert: \"As an irony expert, I can point out the use of the phrase 'crusty & dusty' as a humorous and exaggerated insult. This type of language is often used in political commentary to mock or belittle a candidate or political figure. The use of the hashtag #tcot suggests that this tweet is coming from a conservative perspective, which is often opposed to Sanders' progressive policies. Overall, this sentence reflects the polarized nature of political discourse surrounding Bernie Sanders and the Democratic Party.\" \n\nThe attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#Hillary concession speech thanks \"young organizers\" - problem is, young voters go 80% for #Bernie & settling sell outs aren't progressives",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "If you told #Bernie you had cancer he would give u $5,000 and drive you to chemo. If u told #Hillary she'd tell you you're \"In her prayers.\"",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@Kateyface88 but #Hillary and  an #sanders thinks global warming and republicans are a bigger threat.its like playing house with out land",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "2Win #BernieSanders needs to stop kissing #HillaryClinton's a$$ & speak about her record in senate and as secretary, both complete failures",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "If #Hillary2016 becomes true it will be time to split the country #CSA cause down south \"We Will Not Comply\" with her or #Bernie2016 BS!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "I wish #HillaryClinton supporters could see the reality that if she wins the Nomination she'll lose the general election. #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@JebBush @HillaryClinton Defeat #Hillary at being eliminated first. Don't worry Jeb, Bernie will finish what you tried to begin. #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#DemDebate I think if #Bernie & #Omalley wud keep hitting #Hillary on her foreign pol Bernie could win. Prolly afraid of Clinton enemy list",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#trump=mysoginst, #hillary does NOT have all older dem women.#Bernie is honest, decent, respectful of women and ELECTABLE. Forget HRC!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie In case you're still \"confused\" that was me doubting your voracity. Again, #RIF my timeline. See my pics... @Tisza_Goth",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "@tanehisicoates #bernie has always been 4 people, #hillary 4 corporations that, again, maliciously take advantage of black and low income.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Dear #Bernie, Only reason U R ahead in polls is b/c the GOP hasn't started 2 beat up on U the way they have been on #Hillary #Inners @maddow",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "Nice appeal to South Carolina Dems from #OMalley: He helped Democrat Vincent Shaheen in S.C. Gov race. #Hillary, #Bernie didn't. #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is neutral towards Bernie Sanders."
+    },
+    {
+        "Tweet": "ACHTUNG COPERNICANS...When 'someone' is offering you SOMETHING4NOTHING, your wallet is going to be EMPTIED. #BernieSanders #HillaryClinton",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Yea this #DemDebate will be interesting. #HillaryClinton will do well w/foreign policy talk. #BernieSanders & that other guy, not so much.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#OMalley man, woah...nice one going after Bernie on his gun friendly past but cool it with the death stares #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Bernie polls against Trump better than Hillary does.  #Iowa if we want to beat Trump we HAVE to vote Bernie! #berniesanders #HillaryClinton",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary and# Chelsea lie like rugs They say #Bernie wants to do away with people's health coverage. He wants single payer - more not less",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Hillary gave paid speech at biotech industry conference championed #GMOs & advised executives to re-brand image.   #Bernie2016 #IowaCaucus.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@ktnicoll87 You LWNJ are laughable. Post NH, #Hillary will whip #Bernie's ass from pillar to post. She's going to run the table. Just watch.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary, it's bad that ANYONE takes big banks $. Even #Obama having done it sucks. It needs to stop & #Bernie shows you can run w/o their $",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "@BernieSanders @ninaturner watching MSNBC who just said #Bernie is slowing down vs #Hillary pushing ahead. We need to prove them wrong!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Really @abcnews ? Lettig #Hillary attack #Bernie for about a minute and then cutoff an answer to ask her again? Stop this biased Bullshit!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "@HillaryClinton Social \"Security\" has super screwed most hardworking families for most of 80 YEARS! #Hillary & #Bernie have no sane answers!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Americans wake up!  France & #Venezuela has voted 2 not keep socialists run their country in the ground! Don't vote 4 #hillary or #sanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "If #Sanders \"plays nice\" in this debate, it's all but over for him. He needs to skewer #Hillary on this #DWS #DNC voter database issue.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Imo #HillaryClinton can't give straight answers because she's lost track of which corporations donated to her campaign #BernieSanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "I mean, dig up the #HillaryClinton anti-#Obama campaign from 2008. Search & replace Obama with #BernieSanders. Same tune they're singing.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Either will get my vote. Both have their issues/flaws. Both are better than any #GOP candidate. #ThatIsAll. #BernieSanders #HillaryClinton",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "#BernieSanders gives good speeches Simon & Garfunkel sing great But #HillaryClinton can actually get things done! #IACaucus #WADR",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "ALL I WANT is for media to give coveragebased on their percentage of support.  #Hillary2016 and #Bernie2016 have more than Trump  #UniteBlue",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "I think #Sanders2016 and #hillary2016 are such freaks because they aren't getting laid. Or vice versa. Or both.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against. Additionally, it is inappropriate and offensive."
+    },
+    {
+        "Tweet": "@JeanetteJing Should be a #Sanders campaign video. Shamelessness. #Hillary is hardly the only Corporate Democrat, the party is full of them.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "It's ALWAYS...some bullshit surrounding/in support of/protecting/cheating 4 #Hillary  Clinton! #DNC release that damn data!! #BernieSanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Tonight, it felt like #Bernie was the person to beat. And @NBCNews assisting #Hillary in that endeavor. Means they're scared. #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "new GOP for #Trump registrations astronomical DNC voters line up to choose whether #Bernie or #Hillary get to hold their leash this time",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "People that want to will. RT@jpodhoretz: I don't think anybody is going to believe #Hillary's claim that #Bernie wants to destroy Obamacare.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "I dont care how many Black faces #Hillary has on her page, shes not fooling anyone. Its a bait & switch. #StayWoke #DumpDebbie 4 #Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary talks about revolving door yet approved arms deals as SoS to countries who donated to Clinton foundation. Wowww #MSNBC2016 #Bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "Amen to #Sanders #Hillary gets $ from Islam countries! Man she sounds so evil & she thinks she is above the law! Jail is calling #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "@nypost 74 year old #BernieSanders steals #Hillary's computer data but #Democrats still insist #NorthKorea didn't hack her priv8 email serve",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "In time, the good #Bernie Backers will come over to the Light - #Hillary will get us killed - TRUMP will #MakeAmericaGreatAgain   #Trump2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "@thehill Cheating the cheater lying to the liar. Vanity vanity, all is vanity If justice prevailed #Bernie would be writing #Hillary in jail",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary > #Bernie Crazy/sexist essays show a pattern of female degradation esp when you reflect on his Clinton condescension. @BWheatnyc",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary fans don't realize that it's them, not #Bernie fans who are the anomaly in US history. 3rd Way #Neoliberals are recent and corrupt.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#HillaryClinton is NOT good for women. Big cover of her husbands sexual escapades in1990s purely for cynical ambition. Vote #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "#SOTU #STFU  #DonaldTrump solves world peace #Obama cures cancer #Hillary stops lying #Kerry stops apologizing #Bernie gets rich #DemDebate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "#Hillary supporters:\"That's just the way it is, some things will never change\" #Bernie supporters:\"Don't you believe them!\"  @BernieSanders",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "@peterdaou Yes Rank & file = Establishment, #bernie ahead w progressives, young Independents, he'd swell democrat ranks #hillary will shrink",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "You're voting for #BernieSanders because he's older? Old people lie. Stick with #HillaryClinton she's familiar with this Country's setup.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "IT WAS NICE THAT #BernieSanders DEFENDED #Hillary, WELL GUESS WHAT TRUMP, I WENT TO THE BATHROOM TOO. ME 3! May The Force Be With YOU ;)",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "I think #BernieSanders is wrong to not mention #HillaryClinton emails; they are a real problem with her general election elect-ability.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Awful nightmares last night involved #HillaryClinton supporters intimidating threatening & hurting/killing @BernieSanders supporters #bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor, as it suggests that his supporters are being threatened and harmed by supporters of Hillary Clinton."
+    },
+    {
+        "Tweet": "#Bernie2016 telling crowd in Iowa near Omaha, \"I have a very good feeling about Iowa.\" Predicts a history making win against #Hillary2016.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "Apparently, if #Hillary2016 is not elected President. Little girls growing up in America won't be able to be President either? #BernieStrong",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#Bernie #Hillary Trickle Down Economics a PROVEN recipe for disaster for the middle class and a rape of middle class financial stability.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Prediction: @ktumulty says #HillaryClinton won the Iowa debate, looked self-assured, very qualified; #BernieSanders seemed mean, desperate",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Sure, #Hillary adopted all of #Bernie's positions. Yawn. Isn't that what lying ass bought politicians do? Lie to get elected? Not buying it.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor, as it suggests that Hillary Clinton adopted his positions, implying that they are desirable and worthy of adoption."
+    },
+    {
+        "Tweet": "#Martin O'Malley well prepared political speech and policies were positive. #Hillary Clinton efficient and charming. #BernieSanders huge.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "Is it surprising that President Obama got involved at this point to \"support\" #HillaryClinton ? #Bernie2016 has to work on this & build ties",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "Looks like a set-up from DNC. Sanders is gaining popularity, and DNC ( Clinton's friends ) doesn't like that  #Bernie2016 #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#SEIU endorses #HillaryClinton, not #BernieSanders. I will no longer support gov't workers. They just said: I got mine. Screw everybody else",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "What separates #BernieSanders from #HillaryClinton is that he focuses on HIS attributes rather than HER faults. That strategy is working.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "It's amazing watching so many people say: I know #Bernie is right, but #Hillary is rational. Since when is doing what's right not rational?",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "u see #Hillary kicked off her \"I'm just like Obama!\" tripe earlier than planned last night @PoliticsPeach , she must be nervous. #bernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "Political_Expert: \"Analyzing the sentence from a political perspective, it's clear that the attitude towards Bernie Sanders is in favor. The use of the hashtag #bernie suggests support for his campaign, while the criticism of Hillary Clinton's attempt to align herself with Obama implies a preference for Bernie's policies and approach. Overall, this sentence reflects the competitive nature of political campaigns and the desire to differentiate oneself from opponents.\"\nSocial_Media_Expert: \"From a social media perspective, this sentence reflects the tendency for users to engage in political commentary and criticism. The use of the term 'tripe' suggests a negative sentiment towards Hillary Clinton, while the use of the hashtag #bernie indicates support for his campaign. Social media platforms are often used to express political opinions and engage in political discourse, and this sentence is an example of that dynamic.\"\nIrony_expert: \"As an irony expert, I can highlight the use of the term 'just like Obama' in this sentence. While it's meant to be a criticism of Hillary Clinton, it's also ironic given that Bernie Sanders has been compared to Obama in terms of his progressive policies and grassroots support. This sentence reflects the complex and often contradictory nature of political discourse and the use of irony to highlight those contradictions.\" \n\nThe attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#Obama #HillaryClinton #BernieSanders want fake #economic number 2 justify taking jobs from ordinary #Americans,outsourcing to other nations",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Two women campaigning 4 #HillaryClinton came by. Told them I am for #Bernie2016. Their attitude was: well once she wins the Primary ...",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "#Hillary set back women's rights by decades w/ fraudulent \"sexism\" attack on #Bernie. She'll stoop to any level 4 votes! #FeministsForBernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "I  liked #Bernie until he got close 2 #Hillary in polls, turned into a dick & has every no-nothing troll sounding like #RWNJs #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Remember \"What, like with a cloth or something?\" when #Hillary plays the #TechDummyCard. However she's all over the #Sandersgate data breach",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "Political_Expert: \"Analyzing the sentence from a political perspective, it's evident that the attitude towards Bernie Sanders is negative. The use of the hashtag #Sandersgate suggests that the author believes Sanders is involved in some sort of scandal or wrongdoing. Additionally, the use of the term 'TechDummyCard' implies that Hillary Clinton is more tech-savvy than Bernie Sanders, which could be seen as a criticism of his abilities or qualifications. Overall, this sentence reflects a critical view of Bernie Sanders.\"\nSocial_Media_Expert: \"Looking at this sentence from a social media perspective, it appears to be critical of Bernie Sanders. Social media often amplifies negative views and criticism, and this sentence is no exception. The use of the hashtag #Sandersgate suggests that the author believes Sanders is involved in some sort of scandal or controversy. Additionally, the use of the term 'TechDummyCard' implies that Sanders is not as tech-savvy as Clinton, which could be seen as a criticism of his abilities or qualifications. Overall, this sentence reflects a negative view of Bernie Sanders.\"\nIrony_expert: \"As an irony expert, it's clear that this sentence is laced with sarcasm and irony. The mention of Hillary Clinton's infamous 'cloth' comment suggests that the author is critical of her tech abilities, despite the use of the hashtag #TechDummyCard. The use of #Sandersgate may also be ironic, as it suggests that Sanders is involved in some sort of scandal or controversy, despite the lack of evidence to support this claim. This sentence is likely meant to be taken with a grain of humor and satire, typical in political commentary.\"\n\nThe attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "I really like what #BernieSanders has to say.  Just afraid that he couldn't  beat the Republican candidate as well as #HillaryClinton.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor, but with some concern about his electability."
+    },
+    {
+        "Tweet": "Funny to watch #MSM point out #Hillary's (shrinking) lead over #Bernie when they're working overtime on their #BernieBlackout #ItsNotWorking",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "Can't support @HRC anymore. They've proven there is such a thing as \"the homosexual agenda\" if they'd endorse #Hillary2016 over #Bernie2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders and against Hillary Clinton."
+    },
+    {
+        "Tweet": "Bernie is not allied with rich Corporations, like #Hillary is ... #Bernie is for peoples rights. Bernie Sanders represents the people.  #USA",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "I can't trust #Hillary when much of her money is from corporations and Wall Street. #Bernie is for We The People not banks #DemDeabte",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "#HillaryClinton has a slim lead over #Bernie in Iowa currently. Her camp probably didn't see this coming but still, #ImWithHer! #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "Oooh, the middle class and the economy. Strong start from #Hillary, but here's where #Bernie's platform lies on.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": "I really feel like #BernieSanders and #HillaryClinton just wanna have a beer & hang out. I predict a Sanders/Clinton bestie status in 2016!",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "U know ur candidate has probs when someone with a #BernieSanders sign throws them into a tizzy #Hillary2016",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Sick of Dems like #Hillary & O'Malley criticizing #Bernie for running as a Dem. They sure were happy when he voted with Dems  #DemTownHall",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    },
+    {
+        "Tweet": "I stoke the fires of #PoliticalRevolution cuz while #Hillary stands above poverty line dropping crumbs #BernieSanders is holding up a ladder",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is in favor."
+    },
+    {
+        "Tweet": "#DemDebate tonight - It's bad TV when #Dems pedal FREE stuff to #USVoters #Hillary & #Bernie fighting to hand out more free cheese tonight",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "@NewsHour I just wished that it wasn't the #Hillary & #Bernie show.  Maybe OMalley could/should gotten more time.",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is neutral."
+    },
+    {
+        "Tweet": ".@RepDWStweets Unless you want democrats to lose the White House, I suggest you resolve this data breech and let #Hillary #Bernie focus! ",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Having made the choice 2 access#Hillary's files & getting caught- #Bernie lied by saying it was ONLY 1 staffer when in fact it was @ least 4",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "@SFL4Hillary  of course #Bernie followers TRASH #Hillary2016 ! you should hear the vile hatred they spew on Daily Kos & elsewhere! #Haters",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence is against Bernie Sanders."
+    },
+    {
+        "Tweet": "Jesus, #BernieSanders seems like he's on Death's Door?Is O'Malley the ONLY Dem candidate who isn't about to DIE? #DemDebate #Bernie #Hillary",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "AGAINST",
+        "Predict": "The attitude of the sentence towards Bernie Sanders is against."
+    },
+    {
+        "Tweet": "Need single payer system where drug company's that fund #HillaryClinton's superpacs can't profit off death #Bernie2016 #WeAreBernie",
+        "Target": "Bernie Sanders",
+        "Stance": "FAVOR, AGAINST, NEUTRAL",
+        "Answer": "FAVOR",
+        "Predict": "The attitude of the sentence is in favor of Bernie Sanders."
+    }
+]

@@ -1,0 +1,13 @@
+[
+    "Sentiment_analysis_expert",
+    [
+        [
+            "From a sentiment analysis perspective, this tweet contains a positive sentiment towards Bernie Sanders. The author expresses respect for him and acknowledges his authenticity, which suggests a favorable view.",
+            "I'm a huge #Hillary2016 supporter- but I respect #BernieSanders.  He's so real & genuine. Hillary is the better choice though- no question."
+        ],
+        [
+            "From a sentiment analysis perspective, this tweet contains a mixed sentiment. The author is a supporter of both Ted Cruz and Donald Trump, but they are leaning towards Ted Cruz after something that happened today. This suggests that the author has some positive feelings towards Ted Cruz, but they still like Trump.",
+            "@FoxNews I am a #TedCruz and #DonaldTrump supporter,  but I am getting much closer to a Cruz vote after today. I still like Trump,  but..."
+        ]
+    ]
+]
